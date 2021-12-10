@@ -1,0 +1,250 @@
+{
+	"label": "Capacidades de las Bandas",
+	"mapping": {
+    "description": "data.description",
+		"class":"data.class"
+  },
+  
+	"entries": {
+		"(A) Crow's Veil": {
+			"name": "(A) Cuervos velados",
+      "description" :": La dura experiencia o un ritual ocultista os permite ocultar vuestras actividades de la vista de los cuervos rastreadores de muerte. No sufrís riesgo extra cuando un golpe implique asesinato.",
+      "class": "Asesinos"      
+		},
+		"(A) Deadly": {
+			"name": "(A)^ Letales",
+      "description" :" Cada PJ puede añadir +1 al valor de Acechar, Cazar o Pelear (máximo 3).",
+      "class": "Asesinos"      
+		},
+		"(A) Emberdeath": {
+			"name": "(A) Brasas mortales",
+      "description" :" La dura experiencia o un ritual ocultista os permite conocer el método arcano para destruir el espíritu de una víctima en el momento que muere. Si sufres 3 puntos de estrés, puedes canalizar la energía electroplasmática del campo fantasmal y desintegrar el espíritu y el cuerpo en una lluvia de brasas chispeantes.",
+      "class": "Asesinos"      
+		},
+		"(A) No Traces": {
+			"name": "(A) Sin rastro",
+      "description" :" Si mantenéis la operación en secreto o hacéis que parezca un accidente, obtenéis la mitad del valor de rep del objetivo (redondeando hacia arriba) en lugar de 0. Si finalizáis la fase de descanso con riesgo 0, recibís rep +1.",
+      "class": "Asesinos"      
+		},
+		"(A) Patron": {
+			"name": "(A) Patrón",
+      "description" :"Subir de Nivel os cuesta la mitad de monedas de lo que os costaría normalmente. ¿Quién es vuestro patrón? ¿Por qué os ayuda?",
+      "class": "Asesinos"      
+		},
+		"(A) Predators": {
+			"name": "(A) Depredadores",
+      "description" :" Cuando uséis un plan basado en el sigilo o el engaño para cometer un asesinato, añadís +1d a la tirada de implicación.",
+      "class": "Asesinos"      
+		},
+		"(A) Veteran": {
+			"name": "(A) Veteranos",
+      "description" :"Elegid una capacidad especial de otra banda.",
+      "class": "Asesinos"      
+		},
+		"(A) Vipers": {
+			"name": "(A) Víboras",
+      "description" :"Tenéis un +1 al nivel de resultado cuando adquiráis o fabriquéis venenos. Estáis especialmente preparados para ser inmune a los efectos de un veneno cuando lo uséis.",
+      "class": "Asesinos"      
+		},
+		"(Br) Blood Brothers": {
+			"name": "(Br) Hermanos de sangre",
+      "description" :" Cuando luchéis junto a vuestras cohortes en un combate, estas añaden +1d a las tiradas de trabajo en equipo (preparación y acciones en grupo). Todas vuestras cohortes son de tipo Matones sin coste alguno (si ya son, se añade otro tipo).",
+	  "class": "Bravos"  
+		},
+		"(Br) Dangerous": {
+			"name": "(Br)^ Peligrosos",
+      "description" :"Cada PJ puede añadir +1 al valor de Cazar, Destrozar o Pelear (máximo 3).",
+	  "class": "Bravos"
+		},
+		"(Br) Door Kickers": {
+			"name": "(Br) Revientapuertas",
+      "description" :"Añadís +1d a la tirada de implicación cuando ejecutéis un plan de asalto.",
+	  "class": "Bravos"
+		},
+		"(Br) Fiends": {
+			"name": "(Br) Enemigos públicos",
+      "description" :"El miedo es tan bueno como el respeto. Podéis contar cada nivel de búsqueda como si fuera territorio.",
+	  "class": "Bravos"
+		},
+		"(Br) Forged In The Fire": {
+			"name": "(Br) Forjados en la batalla",
+      "description" :"Cada PJ se ha endurecido por una experiencia cruel. Todos añadís +1d a las tiradas de resistencia.",
+	  "class": "Bravos"
+		},
+		"(Br) Patron": {
+			"name": "(Br) Patrón",
+      "description" :" Subir de Nivel os cuesta la mitad de monedas de lo que os costaría normalmente. ¿Quién es vuestro patrón? ¿Por qué os ayuda?",
+	  "class": "Bravos"
+		},
+		"(Br) Veteran": {
+			"name": "(Br) Veteranos",
+      "description" :"Elegid una capacidad especial de otra banda.",
+	  "class": "Bravos"
+		},
+		"(Br) War Dogs": {
+			"name": "(Br) Perros de guerra",
+      "description" :"Cuando estéis en guerra (estatus de facción –3), la banda no sufre el –1 de apoyo y los PJ siguen teniendo dos tareas por fase de descanso, no solo una.",
+	  "class": "Bravos"
+		},    
+		"(C) Anointed": {
+			"name": "(Se) Ungidos",
+      "description" :"Añadís +1d a las tiradas de resistencia contra amenazas sobrenaturales. Añadís +1d a las tiradas de curación de daño sobrenatural.",
+      "class": "Secta"      
+		},
+		"(C) Bound in Darkness": {
+			"name": "(Se) Unidos en la oscuridad",
+      "description" :" Podéis hacer trabajo en equipo con cualquier otro miembro de la secta, no importa la distancia que os separe. Podéis susurrar un mensaje que oigan todos los sectarios sufriendo 1 punto de estrés.",
+      "class": "Secta"      
+		},
+		"(C) Chosen": {
+			"name": "(Se)^ Elegidos",
+      "description" :" Cada PJ puede añadir +1 al valor de Armonizar, Estudiar o Influir (máximo 3).",
+      "class": "Secta"      
+		},
+		"(C) Conviction": {
+			"name": "(Se) Convicción",
+      "description" :" Cada PJ adquiere un vicio adicional: Devoción. Este vicio no os hará perder el control al eliminar estrés de más cuando lo satisfagáis y proporcionéis un sacrificio apropiado. Además, la deidad os ayudará en una tirada de acción que hagáis, desde ahora hasta que satisfagáis de nuevo este vicio.",
+      "class": "Secta"      
+		},
+		"(C) Glory Incarnate": {
+			"name": "(Se) Gloria encarnada",
+      "description" :"Vuestra deidad se manifiesta en ocasiones en el mundo físico. Esto puede ser de gran ayuda, pero las prioridades y valores de un dios no son los de los mortales. Estáis avisados.",
+      "class": "Secta"      
+		},
+		"(C) Sealed in Blood": {
+			"name": "(Se) Sellado con sangre",
+      "description" :"Cada sacrificio humano reduce el coste de cualquier ritual que realicéis en –3 puntos de estrés.",
+      "class": "Secta"      
+		},
+		"(C) Veteran": {
+			"name": "(Se) Veteranos",
+      "description" :"Elegid una capacidad especial de otra banda.",
+      "class": "Secta"      
+		},
+		"(C) Zealotry": {
+			"name": "(Se) Fanatismo",
+      "description" :"Vuestras cohortes han perdido la cordura y se dedican en cuerpo y alma a la secta. Cumplirán cualquier servicio, sin importar lo peligroso o extraño que sea. Añaden +1d a las tiradas de acción contra enemigos de la fe.",
+      "class": "Secta"      
+		},
+		"(H) Accord": {
+			"name": "(Bu) Acuerdo",
+      "description" :"A veces los amigos son tan valiosos como el territorio. Podéis considerar territorio hasta un máximo de tres facciones con estatus +3.",
+      "class": "Buhoneros"      
+		},
+		"(H) Ghost Market": {
+			"name": "(Bu) Mercado Fantasma",
+      "description" :"Gracias a un ritual arcano o una dura experiencia, habéis descubierto cómo modificar vuestro producto para venderlo a fantasmas y/o demonios. No pagan con dinero. ¿Con qué pagan?",
+      "class": "Buhoneros"      
+		},
+		"(H) High Society": {
+			"name": "(Bu) Alta Sociedad",
+      "description" :": Lo que realmente importa es a quién conoces. –1 de riesgo durante la fase de descanso y +1d al buscar información sobre la élite de la ciudad.",
+      "class": "Buhoneros"      
+		},
+		"(H) Hooked": {
+			"name": "(Bu) Enganchados",
+      "description" :"Los miembros de vuestras pandillas consumen vuestro producto. Añadid a vuestras pandillas los defectos desenfrenada, salvajes o volátil y calidad +1 (máximo 4).",
+      "class": "Buhoneros"      
+		},
+		"(H) Patron": {
+			"name": "(Bu) Patrón",
+      "description" :": Subir de Nivel os cuesta la mitad de monedas de lo que os costaría normalmente. ¿Quién es vuestro patrón? ¿Por qué os ayuda?",
+      "class": "Buhoneros"      
+		},
+		"(H) Silver Tongues": {
+			"name": "(Bu)^ Picos de oro",
+      "description" :"Cada PJ puede añadir +1 al valor de Influir, Socializar o Mandar (máximo 3).",
+      "class": "Buhoneros"      
+		},
+		"(H) The Good Stuff": {
+			"name": "(Bu) Buena mercancía",
+      "description" :"Vuestra mercancía es exquisita. La calidad del producto es igual a vuestro Nivel +2. Cuando tratéis con una banda o facción, el DJ os informará de quiénes están enganchados al producto (uno, algunos, muchos o todos).",
+      "class": "Buhoneros"      
+		},
+		"(H) Veteran": {
+			"name": "(Bu) Veteranos",
+      "description" :"Elegid una capacidad especial de otra banda.",
+      "class": "Buhoneros"      
+		},
+		"(Sh) Everyone Steals": {
+			"name": "(So)^ Todos roban",
+      "description" :"Cada PJ puede añadir +1 al valor de Acechar, Afinar o Trastear (máximo 3).",
+      "class": "Sombras"      
+		},
+		"(Sh) Ghost Echoes": {
+			"name": "(So) Ecos fantasmales",
+      "description" :"Debido a una experiencia extraña o un ritual ocultista, todos los miembros de la banda adquieren la capacidad de ver e interactuar con las estructuras, calles y objetos fantasmales que hay en el eco de Doskvol que existe en el campo fantasmal.",
+      "class": "Sombras"      
+		},
+		"(Sh) Pack Rats": {
+			"name": "(So) Urracas",
+      "description" :"Vuestra guarida es un batiburrillo de objetos robados. +1d a las tiradas de adquirir activos.",
+      "class": "Sombras"      
+		},
+		"(Sh) Patron": {
+			"name": "(So) Patrón",
+      "description" :"Subir de Nivel os cuesta la mitad de monedas de lo que os costaría normalmente. ¿Quién es vuestro patrón? ¿Por qué os ayuda?",
+      "class": "Sombras"      
+		},
+		"(Sh) Second Story": {
+			"name": "(So) Allanamiento de morada",
+      "description" :"Añadid +1d a las tiradas de implicación cuando hagáis un allanamiento.",
+      "class": "Sombras"      
+		},
+		"(Sh) Slippery": {
+			"name": "(So) Escurridizos",
+      "description" :"Cuando hagáis tiradas de aprietos, haced dos tiradas y elegid cualquiera de los dos resultados. Añadid +1d cuando reduzcáis el riesgo de la banda.",
+      "class": "Sombras"      
+		},
+		"(Sh) Synchronized": {
+			"name": "(So) Sincronizados",
+      "description" :": Cuando realicéis una acción en grupo, podéis contar varios 6 de diferentes tiradas como un éxito crítico.",
+      "class": "Sombras"      
+		},
+		"(Sh) Veteran": {
+			"name": "(So) Veteranos",
+      "description" :"Elegid una capacidad especial de otra banda.",
+      "class": "Sombras"      
+		},
+		"(Sm) All Hands": {
+			"name": "(Co) Unión de fuerzas",
+      "description" :"Durante la fase de descanso, una de vuestras cohortes puede usar una tarea en adquirir un activo, reducir riesgo o trabajar en un proyecto a largo plazo.",
+      "class": "Contrabandistas"      
+		},
+		"(Sm) Ghost Passage": {
+			"name": "(Co) Transporte de fantasmas",
+      "description" :" Todos los miembros de la banda son inmunes a la posesión de espíritus gracias a una experiencia extraña o un ritual ocultista, pero pueden «llevar» a un fantasma como pasajero dentro de su cuerpo.",
+      "class": "Contrabandistas"      
+		},
+		"(Sm) Just Passing Through": {
+			"name": "(Co) Pasaba por aquí",
+      "description" :"–1 riesgo en la fase de descanso. Si tenéis riesgo 4 o menos, añadid +1d al engañar a cualquier persona al haceros pasar por ciudadanos comunes.",
+      "class": "Contrabandistas"      
+		},
+		"(Sm) Leverage": {
+			"name": "(Co) Influencia",
+      "description" :"La banda suministra objetos ilegales a otras facciones. Vuestro éxito es bueno para ellas. Cada vez que ganéis rep, obtenéis +1 rep.",
+      "class": "Contrabandistas"      
+		},
+		"(Sm) Like Part of the Family": {
+			"name": "(Co)^ Uno más de la familia",
+      "description" :"Cread uno de vuestros vehículos como una cohorte (usad las ventajas y desventajas). Su calidad es igual a vuestro Nivel +1.",
+      "class": "Contrabandistas"      
+		},
+		"(Sm) Reavers": {
+			"name": "(Co) Filibusteros",
+      "description" :"Si entráis en un conflicto a bordo de un vehículo, obtenéis efecto +1 para el daño y la velocidad del vehículo. El vehículo también adquiere protección.",
+      "class": "Contrabandistas"      
+		},
+		"(Sm) Renegades": {
+			"name": "(Co) Renegados",
+      "description" :"Cada PJ puede añadir +1 al valor de Acechar, Afinar o Pelear (máximo 3).",
+      "class": "Contrabandistas"      
+		},
+		"(Sm) Veteran": {
+			"name": "(Co) Veteranos",
+      "description" :"Elegid una capacidad especial de otra banda.",
+      "class": "Contrabandistas"      
+		}
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"label": "Registros de Desavenças",
+	"entries": {
+		"Arrest": {
+			"name": "Arresto",
+			"description": "<p>Un inspector presenta a un magistrado un expediente con pruebas para comenzar el enjuiciamiento de la banda. Los casacas azules envían un destacamento para arrestaros (una pandilla de, al menos, la misma <strong>escala que vuestro nivel de búsqueda</strong>). Podéis pagarles con una cantidad de <strong>monedas igual a vuestro nivel de búsqueda +3</strong>, entregar a alguien para que sea arrestado (y <strong>eliminar todo el riesgo</strong>) o tratar de evadir la captura.</p><blockquote> <p>Una porra golpea los postigos de la ventana. «¡Muy bien! ¡Salid todos, despacito!». Parece la voz del sargento Klellan. Cuando echáis un vistazo fuera podéis ver un destacamento de unos veinte casacas azules, pertrechados para una pelea. Klellan murmura en voz baja y solo se le puede oír en el interior «¿A ver si es que me han dado mal la dirección?». Se aclara la garganta y espera a que aparezca una moneda.</p> </blockquote>"
+		},
+		"Cooperation": {
+			"name": "Cooperación",
+			"description": "<p>UUna facción con la que tenéis estatus +3 os pide un favor. Si no accedéis, perderéis <strong>1 punto de rep</strong> por cada Nivel de la facción aliada, o <strong>1 de estatus</strong> con ella. Si no tenéis estatus +3 con ninguna facción, eludís el aprieto por el momento.</p>"
+		},
+		"Demonic Notice": {
+			"name": "Proposición demoníaca",
+			"description": "<p>Un demonio se presenta ante la banda con una siniestra oferta. Podéis aceptar el trato, esconderos hasta que el demonio pierda el interés (y perder también <strong>3 puntos de rep</strong>) o solucionarlo de otra manera</p>"
+		},
+		"Flipped": {
+			"name": "Cambio de lealtad",
+			"description": "<p>Debido a vuestro <strong>riesgo</strong>, un rival de los PJ se las arregla para que uno de vuestros contactos, patrones o clientes cambie su lealtad. Ahora es leal a otra facción. </p> <blockquote> <p>Oís en las calles que Laroze trabaja ahora para las Hoces. El otro día lo vieron hablando con Flint… El muy bastardo estará detrás de todo esto. Eliminad a Laroze de la lista de contactos hasta que podáis resolver esto.</p> </blockquote>"
+		},
+		"Gang Trouble": {
+			"name": "Problemas de pandillas",
+			"description": "<p>Una de tus pandillas (u otra cohorte) causa problemas debido a su desventaja. Podéis perder reputación (tanta rep como vuestro Nivel +1), darle una lección a uno de los miembros de la pandilla o enfrentaros a las represalias de la parte perjudicada.</p> <blockquote> <p>Después de que los PJ tuvieran éxito eliminando en un asalto a los Fajines Rojos, su pandilla de salvajes lleva las cosas demasiado lejos. Comienzan a atacar a cualquier iruviano con el que se encuentran en Pata de Cuervo y durante una pelea mutilan horriblemente a un ciudadano. Es la comidilla. ¿Así es cómo los Sanguinarios controlan a su gente? Arcy decide tomar cartas en el asunto y darle una lección a la pandilla. Vuelve a la taberna donde ocurrió el incidente y allí mismo destroza la cara del matón culpable, dejándole una cicatriz horrible.</p> <p>El DJ considera que esta solución implica poner una marca en el reloj de progreso creado en una sesión anterior, cuando Arcy trató a la pandilla con rudeza. El reloj se llama «La pandilla contraataca». Como ya tenía marcados tres de los cuatro sectores, ahora se completa. Parece que la forma tan ruda de tratar a la pandilla de salvajes se volverá en contra de Arcy.</p> </blockquote>"
+		},
+		"Interrogation": {
+			"name": "Interrogatorio",
+			"description": "<p>Los casacas azules arrinconan a uno de los PJ para interrogarlo sobre los crímenes de la banda. ¿Cómo consiguen capturarte? Si no les pagas <strong>3 monedas</strong>, te dan una paliza (<strong>daño de nivel 2</strong>) y acabarás diciéndoles lo que quieren saber (<strong>riesgo +3</strong>). Puedes resistir cada una de las consecuencias por separado.</p> <blockquote> <p>¡Algunos jugadores odian de verdad que su personaje sea capturado! Deja claro que es algo completamente normal para un criminal de los bajos fondos. Pasas tiempo dentro y fuera de la cárcel, siendo interrogado y acosado por la ley. No es el fin del mundo. Pero ahora que estás en la sala de interrogatorios, ¿cómo te comportas? ¿Hablas? ¿Te enfrentas a ellos? ¿Haces un trato?</p> </blockquote>"
+		},
+		"Questioning": {
+			"name": "Pesquisas",
+			"description": "<p>Los casacas azules capturan a un PNJ de vuestra banda, o a un contacto, para realizar pesquisas sobre vuestros crímenes. ¿Quién es más vulnerable, para los casacas azules? Pagad 2 monedas a los casacas azules o haced una tirada de fortuna para ver cuánto se va de la lengua</p> <ul> <li><strong>1-3:</strong> riesgo +2</li> <li><strong>4/5:</strong> riesgo +1</li> </ul> <blockquote> <p>Tira 2d para ver si una persona normal se va de la lengua. Si se trata de alguien experimentado de los bajos fondos o con algún tipo de resistencia, tira 3d o 4d. Si es alguien blando o con alguna lealtad a la ley, tira solo 1d o 0d.</p> </blockquote>"
+		},
+		"Reprisals": {
+			"name": "Represalias",
+			"description": "<p>Una facción enemiga ejecuta una acción en contra vuestra (o de un amigo, contacto o proveedor de vicio). Podéis disculparos, <strong>pagando 1 rep y 1 moneda</strong> por cada punto de Nivel del enemigo, permitir que se metan con vosotros o los vuestros, o luchar y demostrarles quién es el jefe.</p>"
+		},
+		"Rivals": {
+			"name": "Rivales",
+			"description": "<p>Una facción neutral tantea el terreno. Os amenazan o amenazan a un amigo, contacto o proveedor de vicio. <strong>Perderéis 1 rep o 1 moneda</strong> por cada punto de Nivel del rival a menos que les plantéis cara y perdáis <strong>1 de estatus</strong> con ellos.</p>"
+		},
+		"Show of Force": {
+			"name": "Demostración de fuerza",
+			"description": "<p>Una facción con la que tenéis un estatus negativo intenta apropiarse de alguna posesión vuestra. Entregadles <strong>1 recurso</strong> o declaradle la guerra (el estatus baja a –3). Si no os quedan recursos, <strong>perdéis 1 de apoyo</strong>.</p>"
+		},
+		"The Usual Suspects": {
+			"name": "Sospechosos habituales",
+			"description": "<p>Los casacas azules capturan a alguien cercano a la banda. Cualquier jugador puede elegir, entre sus amigos o proveedores, a la persona más propensa a ser capturada. Pagad 1 moneda a los casacas azules o haced una tirada de fortuna para descubrir si resiste los interrogatorios:</p> <ul> <li>1-3: <strong>riesgo +2</strong>,</li> <li>4/5: <strong>daño de nivel 2</strong></li> </ul>"
+		},
+		"Unquiet Dead": {
+			"name": "Muertos sin descanso",
+			"description": "<p>Un espíritu errante se siente atraído hacia vosotros. ¿Se trata de una víctima del pasado? Necesitaréis los servicios de un Susurro o un juntarraíles para intentar destruirlo o desterrarlo, o tendréis que lidiar con él vosotros mismos.</p> <blockquote> <p>Podéis contratar a un PNJ utilizando la tarea de adquirir un activo de la fase de descanso. Usa el nivel de calidad del PNJ como una tirada de fortuna para ver el éxito que tienen con el espíritu.</p> </blockquote>"
+		}
+	}
+}

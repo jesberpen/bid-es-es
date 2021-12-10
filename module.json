@@ -1,0 +1,38 @@
+{
+  "name":"bid-es-es",
+  "title":"Blades in the Dark - Español",
+  "description":"Modulo de traducción Babele en Español para Blades in the Dark",
+  "version":"0.1.0",
+  "author":"Gato Malefico",
+  "minimumCoreVersion":"0.8.8",
+  "compatibleCoreVersion":"0.8.9",
+  "esmodules": ["babele-register.js"],
+  "url":"https://github.com/jesberpen/bid-es-es",
+  "manifest": "https://raw.githubusercontent.com/jesberpen/bid-es-es/main/module.json",
+  "download": "https://codeload.github.com/jesberpen/bid-es-es/zip/main",
+   "languages":[
+      {
+         "lang": "es",
+         "name": "Español",
+         "path":"es.json"
+      }
+   ],
+   "dependencies":[
+      {
+         "name":"babele",
+         "manifest":"https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+      },
+      {
+        "name": "blades-in-the-dark",
+        "type": "system"
+      }
+   ],
+
+  "packs": [],
+
+  "systems": [
+    "blades-in-the-dark"
+  ]
+  
+}
+

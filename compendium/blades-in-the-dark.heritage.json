@@ -1,0 +1,33 @@
+{
+	"label": "Legados",
+	"mapping": {
+    "description": "data.description"
+  },
+  
+	"entries": {
+		"Akoros": {
+			"name": "Akoros",
+      "description": "Akoros es la tierra más grande e industrializada del Imperio y hogar de la capital, además de la propia Duskwall. Es conocida como un conglomerado de culturas que han prosperado estrechamente durante siglos, algo así como Europa."
+		},
+		"Iruvia": {
+			"name": "Iruvia",
+      "description": "Si quieres pertenecer a una cultura considerada como «foránea» por los lugareños, puedes proceder de Iruvia, un rico y poderoso reino del desierto que se encuentra muy al sur. Es otra tierra de diversidad y culturas diferentes, similar a las antiguas Persia, Egipto e India."
+		},
+		"Severos": {
+			"name": "Severos",
+      "description": "Si prefieres ser de un lugar considerado «salvaje» por el resto del imperio, puedes proceder de Severos. La mayoría de los severosi viven en tribus nómadas de jinetes esparcidas por las devastadas Tierras de la Muerte, alejados de los pocos asentamientos imperiales y sobreviviendo dentro de las ruinas de antiguas fortalezas arcanas que todavía repelen a los espíritus."
+		},
+		"Skovlan": {
+			"name": "Skovlan",
+      "description": "Si quieres pertenecer a un pueblo marginado, podrías ser oriundo de Skovlan, el reino insular que se encuentra al otro lado del mar partiendo desde Doskvol. Skovlan fue el último lugar conquistado por el Imperio en el transcurso de la Guerra de la Unidad, un conflicto que duró 36 años y terminó hace poco. Muchos refugiados skovlandeses que perdieron sus hogares y trabajos en la destrucción de la guerra han llegado a Doskvol para buscar nuevas oportunidades."
+		},
+		"The Dagger Isles": {
+			"name": "Islas Daga",
+      "description": "Si quieres ser un trotamundos sin raíces, puedes proceder de las Islas Daga. Algunas de sus gentes crecen en barcos y viajan mucho antes de establecerse. Se los conoce como corsarios y comerciantes que viven sin barreras de rayos, lidiando con los espíritus de otras maneras."
+		},
+		"Tycheros": {
+			"name": "Tycheros",
+      "description": "Si quieres ser alguien raro, puedes proceder de Tycheros. Es un lugar semimítico que se encuentra más allá del norteño Mar del Vacío. Todos dicen que sus habitantes son en parte demonios. Si eliges el legado tycherosi, necesitas una manifestación demoníaca que delate a tu personaje: ojos negros de tiburón, plumas en lugar de pelo, etcétera."
+		}
+	}
+}

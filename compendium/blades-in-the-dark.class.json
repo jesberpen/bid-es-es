@@ -1,0 +1,64 @@
+{
+	"label": "Libretos",
+  "mapping": {
+    "description": "data.description",
+    "experience_clues": "data.experience_clues"
+  },
+  
+	"entries": {
+		"Cutter": {
+      "name": "Sajador",
+      "description" : "Un guerrero peligroso e intimidante",
+      "experience_clues": "<br>- Respondiste a un desafío con violencia o coacción."
+		},
+		"Ghost": {
+			"name": "Fantasma",
+      "description" : "Un espíritu incorpóreo (libreto espiritual)",
+      "experience_clues": "<br><h2>SUSTITUYE A LOS PUNTOS ANTERIORES</h2>- Te vengaste de todo el que creíste que lo merecía.<br>- Expresaste indignación e ira o ajustaste cuentas relacionadas con tu legado o antecedentes.<br>- Luchaste contra tus problemas debido a tu necesidad o tus desolaciones."      
+		},
+		"Hound": {
+			"name": "Sabueso",
+      "description" : "Un certero rastreador y un francotirador mortal",
+      "experience_clues": "<br>- Respondiste a un desafío con violencia o siguiendo un rastro."      
+		},
+		"Hull": {
+			"name": "Cascarón",
+      "description" : "Un armazón de tecnología de chispa y animado por un espíritu (libreto espiritual)",
+      "experience_clues": "<br><h2>SUSTITUYE A LOS PUNTOS ANTERIORES</h2>- Cumpliste con tus funciones a pesar de la dificultad o el peligro.<br>- Suprimiste o ignoraste tus antiguas creencias humanas, tus motivaciones, legado o antecedente.<br>- Luchaste contra tus problemas debido a tu desgaste." 
+		},
+		"Leech": {
+			"name": "Sanguijuela",
+      "description" : "Un saboteador y una mente analítica",
+      "experience_clues": "<br>- Respondiste a un desafío con tu habilidad técnica o sembrando el caos."      
+		},
+		"Lurk": {
+			"name": "Acechador",
+      "description" : "Un ratero y espía sigiloso",
+      "experience_clues": "<br>- Respondiste a un desafío con sigilo o evasión."      
+		},
+		"Slide": {
+			"name": "Máscara",
+      "description" : "Un espía y sutil manipulador",
+      "experience_clues": "<br>- Respondiste a un desafío con artimañas o usando tus influencias."      
+		},
+		"Spider": {
+			"name": "Araña",
+      "description" : "Una peligrosa mente maestra",
+      "experience_clues": "<br>- Respondiste a un desafío con maquinaciones o conspirando."
+		},
+		"Vampire": {
+			"name": "Vampiro",
+      "description" : "Un espíritu que anima un cuerpo no muerto (libreto espiritual)",
+      "experience_clues": "<br><h2>SUSTITUYE A LOS PUNTOS ANTERIORES</h2>- Mostraste tu dominio o mataste sin piedad.<br>- Expresaste tus creencias, impulsos, legado o antecedentes.<br>- Luchaste contra tus problemas con el vicio, tus traumas o tus restricciones."            
+		},
+		"Whisper": {
+			"name": "Susurro",
+      "description" : "Un adepto de lo arcano y médium",
+      "experience_clues": "<br>- Respondiste a un desafío con tus conocimientos o poderes arcanos."            
+		}
+	}
+}
+
+
+
+

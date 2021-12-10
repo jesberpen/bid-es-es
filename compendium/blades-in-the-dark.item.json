@@ -1,0 +1,253 @@
+{
+	"label": "Objetos",
+	"mapping": {
+    "description": "data.description",
+    "class":"data.class"
+  },
+  
+	"entries": {
+		"(C) Fine hand weapon": {
+			"name": "(Saj) Arma de cuerpo a cuerpo de calidad",
+      "description": "Un arma de cuerpo a cuerpo de excelente factura; elige cuál. ¿Es un arma estándar bien diseñada, como una daga perfectamente equilibrada, o algo exótico, como un sable de duelo iruviano o una maza de guerra con bandas de metal?",
+      "class":"Sajador"      
+		},
+		"(C) Fine heavy weapon": {
+			"name": "(Saj) Arma pesada de calidad",
+      "description": "Un arma de cuerpo a cuerpo a dos manos de excelente factura; elige cuál. Un martillo de guerra, un espadón, una pica militar, un hacha de combate, etcétera. Un arma pesada tiene más alcance y golpea con más fuerza que un arma estándar, otorgando eficacia cuando la fuerza o el alcance del arma sea un factor a tener en cuenta.",
+      "class":"Sajador"      
+		},
+		"(C) Manacles & chain": {
+			"name": "(Saj) Esposas con cadena",
+      "description": "Unas grandes esposas con cadenas, adecuadas para contener a un prisionero. ¿Es un recuerdo de una estancia con los casacas azules?",
+      "class":"Sajador"      
+		},
+		"(C) Rage essence vial": {
+			"name": "(Saj) Frasco de esencia de furia",
+      "description": "Una sola dosis mejora en gran medida la fuerza del usuario y su resistencia al dolor, además de incitarle una violencia irracional durante varios minutos. El DJ modificará tu situación y efecto cuando luches bajo los efectos de la esencia de furia. Además, sufres dos consecuencias: «No distinguir a los amigos de los enemigos» y «No parar hasta que todos estén destrozados». Puedes resistirte a ambos, como siempre.",
+      "class":"Sajador"      
+		},
+		"(C) Scary weapon or tool": {
+			"name": "(Saj) Arma o herramienta disuasoria",
+      "description": "Un arma de mano o herramienta de aspecto aterrador. Este objeto aumenta el efecto cuando intimides a alguien, pero no inflige más daño en combate.",
+      "class":"Sajador"      
+		},
+		"(H) A trained hunting pet": {
+			"name": "(Sab) Un animal de caza entrenado",
+      "description": "Tu compañero animal obedece tus órdenes y se anticipa a tus acciones. Cohorte (Experto: Cazador).",
+	  "class":"Sabueso" 
+		},
+		"(H) Electroplasmic ammunition": {
+			"name": "(Sab) Munición electroplasmática",
+      "description": "Una bandolera de munición electroplasmática especialmente potente contra espíritus, pero menos efectiva contra objetivos físicos. La carga eléctrica es capaz de aturdir a una persona, pero hace muy poco daño. Varios disparos podrían dejar incapacitado a un objetivo humano. Esta munición es especialmente reactiva en el campo fantasmal: pon en marcha un reloj de cuatro sectores llamado «Atención de los Guardianes Espirituales» y ponle una marca por cada operación en la que se use la munición.",
+      "class":"Sabueso" 
+		},
+		"(H) Fine long rifle": {
+			"name": "(Sab) Fusil largo de calidad",
+      "description": "Un fusil de caza de exquisita factura, mortal a larga distancia y poco práctico en espacios pequeños. Los fusiles de largo alcance suelen ser ilegales para los civiles de Doskvol, pero tienes papeles militares (reales o falsificados) para este.",
+      "class":"Sabueso" 
+		},
+		"(H) Fine pair of pistols": {
+			"name": "(Sab) Un par de pistolas de calidad",
+      "description": "Una pareja de pistolas fabricadas para tener una precisión superior y con doble cañón para hacer dos disparos antes de volver a cargar. ¿Han sido fabricadas por las Hijas de Kardera, Templeton & Slane, la Forja Imperial u otro armero? ¿En qué se diferencian de una pistola normal?",
+      "class":"Sabueso" 
+		},
+		"(H) Spyglass": {
+			"name": "(Sab) Catalejo",
+      "description": "Un tubo de bronce con lentes que permiten la visión a larga distancia. Plegable. Se puede acoplar a un fusil.",
+      "class":"Sabueso" 
+		},
+		"(Le) Bandolier": {
+			"name": "(San) Bandolera",
+      "description": "Una correa que rodea todo el cuerpo y equipada con bolsas especialmente acolchadas para contener tres agentes alquímicos o bombas de chispa. Cuando emplees un producto alquímico o una bomba de la bandolera, elige uno de la lista (Aceite de flotar, Aceite de atadura, Aceite ígneo, Alkahest, Azogue, Bomba de humo, Chispa (droga), Granada, Polvos asfixiantes, Polvos de trance, Veneno de ceguera, Veneno fuego de calavera, Veneno paralizante) o una de tus propias fórmulas. Puedes rellenar automáticamente tu bandolera durante la fase de descanso siempre y cuando sea razonable que tengas acceso a un proveedor o taller.",
+      "class":"Sanguijuela" 
+		},
+		"(Le) Blowgun & darts, syringes": {
+			"name": "(San) Cerbatana y dardos, jeringas",
+      "description": "Un pequeño tubo y dardos que pueden llenarse con frascos alquímicos. Jeringas vacías.",
+      "class":"Sanguijuela" 
+		},
+		"(Le) Fine tinkering tools": {
+			"name": "(San) Herramientas de calidad",
+      "description": " Un conjunto de herramientas de buena factura para el trabajo mecánico más delicado. Una lupa de joyero. Aparatos de medición.",
+      "class":"Sanguijuela" 
+		},
+		"(Le) Fine wrecking tools": {
+			"name": "(San) Herramientas de destrucción de calidad",
+      "description": "Un conjunto de herramientas especializadas para el sabotaje y la destrucción. Un taladro pequeño y potente. Un mazo y picas de acero. Una palanca. Una batería electroplasmática, abrazaderas y alambre. Frascos de ácido. Una cortadora de chispa y un tanque de combustible.",
+      "class":"Sanguijuela" 
+		},
+		"(Le) Gadgets": {
+			"name": "(San) Artilugios",
+      "description": "Puedes crear artilugios durante la fase de descanso usando Trastear y las herramientas y materiales adecuados. Anota cuánta carga ocupa cada artilugio que vayas a utilizar durante una operación.",
+      "class":"Sanguijuela" 
+		},
+		"(Lu) Dark-sight goggles": {
+			"name": "(Ac) Gafas de visión nocturna",
+      "description": "Un dispositivo arcano que permite al usuario ver en la más negra oscuridad como si hubiera buena iluminación. ",
+      "class":"Acechador" 
+		},
+		"(Lu) Fine lockpicks": {
+			"name": "(Ac) Ganzúas de calidad",
+      "description": ": Un conjunto de herramientas de excelente factura para desactivar y eludir cerraduras.",
+      "class":"Acechador" 
+		},
+		"(Lu) Fine shadow cloak": {
+			"name": "(Ac) Capa de sombras de calidad",
+      "description": "Una capa con capucha fabricada en una exótica seda de sombra iruviana que se funde con la oscuridad a su alrededor. Este objeto aumenta tu grado de efecto cuando te muevas sigilosamente.",
+      "class":"Acechador" 
+		},
+		"(Lu) Light climbing gear": {
+			"name": "(Ac) Equipo de escalada ligero",
+      "description": "Un conjunto de herramientas de escalada de buena factura, menos voluminoso y más ligero que uno estándar. El conjunto de escalada estándar tiene un valor de carga 2.",
+      "class":"Acechador" 
+		},
+		"(Lu) Silence potion vial": {
+			"name": "(Ac) Frasco de poción del silencio",
+      "description": "Un frasco de líquido dorado que enmudece durante unos instantes todos los sonidos dentro de un radio de 3 metros del usuario.",
+      "class":"Acechador" 
+		},
+		"(Sl) A cane-sword": {
+			"name": "(Ma) Bastón espada",
+      "description": " Una fina espada oculta en su vaina con forma de bastón de noble. Una inspección superficial lo pasará por alto.",
+      "class":"Máscara" 
+		},
+		"(Sl) Fine clothes & jewelry": {
+			"name": "(Ma) Ropa y joyas de calidad",
+      "description": "Un traje que parece ser de tan buena calidad que puedes hacerte pasar por un noble rico. Si llevas este objeto como un conjunto de ropa suplementario para cambiarte, cuenta como Carga 2 en vez de Carga 0.",
+      "class":"Máscara" 
+		},
+		"(Sl) Fine disguise kit": {
+			"name": "(Ma) Vestuario de calidad",
+      "description": " Un kit de maquillaje teatral equipado con una impresionante variedad de recursos para engañar a la vista. La calidad superior de este kit puede aumentar el efecto cuando lo uses en tus acciones de engañar",
+      "class":"Máscara" 
+		},
+		"(Sl) Fine loaded dice, trick cards": {
+			"name": "(Ma) Dados y cartas trucadas de calidad",
+      "description": "Accesorios de juego sutilmente alterados para favorecer ciertos resultados. La calidad superior de este kit puede aumentar el efecto cuando lo uses en tus acciones de engañar.",
+      "class":"Máscara" 
+		},
+		"(Sl) Trance powder": {
+			"name": "(Ma) Polvos de trance",
+      "description": "Una dosis de la popular droga, que induce un estado alterado de conciencia. La víctima de estos polvos no está completamente inconsciente, sino que se retira a un estado mental tranquilo y sugestionable, similar al hipnotismo.",
+      "class":"Máscara" 
+		},
+		"(Sp) Blueprints": {
+			"name": "(Ar) Planos",
+      "description": "Una útil carpeta de dibujos arquitectónicos y planos de ciudades. Puedes especificar los planos que llevas cuando elijas este objeto.",
+      "class":"Araña" 
+		},
+		"(Sp) Concealed palm pistol": {
+			"name": "(Ar) Pistola oculta en la palma",
+      "description": ": Una pequeña arma de fuego con una carga débil que se puede llevar fácilmente oculta en la manga o en un chaleco. La pistola tiene un alcance extremadamente limitado, solo uno o dos metros. Es muy difícil de detectar, incluso si te cachean.",
+      "class":"Araña" 
+		},
+		"(Sp) Fine bottle of whiskey": {
+			"name": "(Ar) Botella de whisky de calidad",
+      "description": "Una exótica destilación de tu colección personal, potente tanto por el alcohol como por su capacidad de impresionar.",
+      "class":"Araña" 
+		},
+		"(Sp) Fine cover identity": {
+			"name": "(Ar) Identidad falsa de calidad",
+      "description": "Papeles, historias y rumores inventados y suficientes relaciones falsas como para pasar por otra persona.",
+      "class":"Araña" 
+		},
+		"(Sp) Vial of slumber essence": {
+			"name": "(Ar) Frasco de esencia de sueño",
+      "description": " Una dosis de esencia de sueño es suficiente para dormir a alguien durante una hora. El sueño de la víctima no es sobrenatural, pero sí profundo; se la puede despertar con un poco de esfuerzo. ",
+      "class":"Araña" 
+		},
+		"(W) Demonbane charm": {
+			"name": "(Su) Amuleto espantademonios",
+      "description": "Una baratija arcana que los demonios prefieren evitar.",
+      "class":"Susurro"       
+		},
+		"(W) Fine lightning hook": {
+			"name": "(Su) Lazo relámpago de calidad",
+      "description": "Un extenso palo a dos manos con un gran anillo de grueso cable en el extremo y conectado a un condensador electroplasmático. Se puede usar para atrapar a un espíritu y arrastrarlo hasta una botella espiritual. Este lazo hecho a medida se pliega de forma compacta hasta reducirse a 1 de carga, a pesar de usarse a dos manos.",
+      "class":"Susurro"       
+		},
+		"(W) Fine spirit mask": {
+			"name": "(Su) Máscara espiritual de calidad",
+      "description": " Un objeto arcano que permite a un usuario entrenado ver energías sobrenaturales en gran detalle. También ofrece alguna medida de protección contra posesiones fantasmales. Cada máscara espiritual es única. ¿Cómo es la tuya? ¿Qué la hace extraña e inquietante?",
+      "class":"Susurro"       
+		},
+		"(W) Ghost key": {
+			"name": "(Su) Llave fantasmal",
+      "description": "Un artilugio arcano que puede abrir puertas fantasmales. Hay un eco de toda la ciudad, a través de todas las edades, atrapado en el campo fantasmal. A veces se puede encontrar una puerta para acceder a ese lugar.",
+      "class":"Susurro"       
+		},
+		"(W) Spirit bottles (2)": {
+			"name": "(Su) Botellas espirituales (2)",
+      "description": "Un artilugio arcano que se utiliza para atrapar espíritus. Consiste en un cilindro metálico cristalino del tamaño de una hogaza de pan.",
+      "class":"Susurro"       
+		},
+		"+ Heavy": {
+			"name": "+Pesada",
+      "description": "Añadir una cota de malla, placas de metal y un casco. [carga 3] La carga se suma a la protección normal y supone un total de carga 5."
+		},
+		"A 2nd Pistol": {
+			"name": "Una Segunda Pistola",
+      "description": "Un arma de fuego de retrocarga y un solo disparo. Devastadora a 15 metros, pero lenta en recargar"
+		},
+		"A Blade or Two": {
+			"name": "Una o dos armas blancas",
+      "description": "Puedes llevar un sencillo cuchillo de combate. O dos espadas curvas. O un estoque y un estilete. O un gran cuchillo de carnicero. <br><br>El arma que elijas puede reflejar tu legado:<br><br> En el norte (Akoros y Skovlan), las armas blancas suelen ser grandes, pesadas y de un solo filo.<br><br> Los señores de los caballos de Severos prefieren las lanzas en las batallas, pero para el combate personal llevan unas dagas de doble filo muy peculiares, de hojas muy anchas y a menudo talladas de formas muy intricadas con historias familiares.<br><br> Los corsarios de las Islas Daga llevan a menudo hojas estrechas y ligeras, adecuadas para dar rápidas estocadas, como el estoque y el estilete.<br><br> En Iruvia son comunes las hojas curvas, afiladas en el borde exterior (como un sable) o en el borde interior (como una hoz)."
+		},
+		"A Large Weapon": {
+			"name": "Un Arma Grande",
+      "description": "Un arma diseñada para utilizarse a dos manos. Un hacha de guerra, un espadón, un martillo de guerra o un arma de asta. Un fusil de caza. Un trabuco. Un arco o ballesta"
+		},
+		"A Pistol": {
+			"name": "Una Pistola",
+      "description": "Un arma de fuego de retrocarga y un solo disparo. Devastadora a 15 metros, pero lenta en recargar."
+		},
+		"An Unusual Weapon": {
+			"name": "Un arma inusual",
+      "description": "Una curiosidad o una herramienta convertida en un arma. Un látigo, un mayal, un hacha, una pala, un trozo de cadena, un abanico de bordes afilados, botas con punta de acero."
+		},
+		"Arcane Implements": {
+			"name": "Utensilios arcanos",
+      "description": "Un frasco de mercurio. Una bolsa de sal negra. Un ancla espiritual en forma de pequeña piedra. Una botella espiritual. Un frasco de electroplasma diseñado para romperse y rociarlo todo en el impacto."
+		},
+		"Armor": {
+			"name": "Protección",
+      "description": "Una túnica gruesa de cuero, guantes y botas reforzados."
+		},
+		"Burglary Gear": {
+			"name": "Equipo de robo",
+      "description": "Un conjunto de ganzúas. Una pequeña palanca. Frascos de aceite para silenciar las bisagras chirriantes. Una bobina de alambre y anzuelos de pesca. Una pequeña bolsa de arena fina."
+		},
+		"Climbing Gear": {
+			"name": "Equipo de escalada",
+      "description": "Una bobina grande de cuerda. Una bobina pequeña de cuerda. Ganchos de agarre. Una bolsa pequeña de polvo de tiza. Un arnés de escalada con nudos y anillas de metal. Un conjunto de pitones de hierro y un mazo pequeño."
+		},
+		"Demolition Tools": {
+			"name": "Herramientas de demolición",
+      "description": "Una almádena y picos de hierro. Taladro pesado. Palanca. "
+		},
+		"Documents": {
+			"name": "Documentos",
+      "description": "Una colección de finos volúmenes sobre gran variedad de temas, incluido un registro de la nobleza, los comandantes de la Guardia Urbana y otros ciudadanos notables. Papeles en blanco, un frasco de tinta, una pluma. Varios mapas interesantes."
+		},
+		"Lantern": {
+			"name": "Linterna",
+      "description": "Una sencilla linterna de aceite, una fantástica lámpara electroplasmática u otra fuente de luz."
+		},
+		"Spiritbane Charm": {
+			"name": "Amuleto espantaespíritus",
+      "description": "Una pequeña baratija arcana que los fantasmas prefieren evitar."
+		},
+		"Subterfuge Supplies": {
+			"name": "Suministros de subterfugio",
+      "description": "Kit de maquillaje teatral. Una selección de documentos en blanco listos para ser usados por un falsificador. Bisuterías. Una capa reversible y un sombrero distintivo. Una insignia municipal falsificada."
+		},
+		"Throwing Knives": {
+			"name": "Cuchillos arrojadizos",
+      "description": "Seis cuchillos pequeños y ligeros."
+		},
+		"Tinkering Tools": {
+			"name": "Herramientas de ajuste",
+      "description": "Un surtido de herramientas para el trabajo mecánico delicado: lupa de joyero, pinzas, un pequeño martillo, alicates, destornillador, etc."
+		}
+	}
+}

@@ -1,0 +1,44 @@
+{
+  "label": "Vicios",
+  "mapping": {
+    "description": "data.description"
+  },
+
+	"entries": [
+		{
+			"id": "Faith",
+			"name": "Fé",
+			"description":"Estás entregado a un poder invisible, un dios olvidado, un ancestro, etc."
+		},
+		{
+			"id": "Gambling",
+			"name": "Juego",
+			"description":"Te pierden los juegos de azar, las apuestas en eventos deportivos, etc."
+		},
+		{
+			"id": "Luxury",
+			"name": "Lujo",
+			"description":"Las exhibiciones costosas u ostentosas de opulencia."
+		},
+		{
+			"id": "Obligation",
+			"name": "Obligaciones",
+			"description":"Estás dedicado a una familia, una causa, una organización, la beneficencia, etc."    
+		},
+		{
+			"id": "Pleasure",
+			"name": "Placer",
+			"description":"Disfrutas de amantes, comida, bebida, drogas, arte, teatro, etc."
+		},
+		{
+			"id": "Stupor",
+			"name": "Sopor",
+			"description":"Buscas el olvido en el abuso de drogas, bebes en exceso, te peleas en los reñideros hasta quedar destrozado, etc."      
+		},
+		{
+			"id": "Weird",
+			"name": "Sobrenatural",
+			"description":"Experimentas con extrañas esencias, te comunicas con malvados espíritus, sigues rituales o tabúes extraños, etc."
+		}
+	]
+}

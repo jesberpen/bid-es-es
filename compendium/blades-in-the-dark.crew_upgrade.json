@@ -1,0 +1,274 @@
+{
+	"label": "Mejoras para las Bandas",
+  "mapping":{
+      "description":"data.description",
+      "class":"data.class"
+   },
+   
+	"entries": {
+		"(A) Assassin Rigging": {
+			"name": "(A) Pertrechos para Asesinos",
+      "description":"Tenéis espacio para llevar armas o equipo adicional con valor de carga 2. Por ejemplo, puedes llevar una pistola (un arma) y equipo de robo y contabilizarlos como carga 0.",
+      "class":"Asesinos"
+		},
+		"(A) Elite Skulks": {
+			"name": "(A) Furtivos de élite",
+      "description":"Todas vuestras cohortes de tipo Furtivos añaden +1d a las tiradas de calidad para las acciones relacionadas con su tipo.",
+      "class":"Asesinos"
+		},
+		"(A) Elite Thugs": {
+			"name": "(A) Matones de élite",
+      "description":"Todas vuestras cohortes de tipo Matones añaden +1d a las tiradas de calidad para las acciones relacionadas con su tipo.",
+      "class":"Asesinos"
+		},
+		"(A) Hardened": {
+			"name": "(A) Templados",
+      "description":"Cada PJ recibe 1 casilla de trauma adicional. Es necesario invertir tres mejoras para elegir esta opción. De esta forma se podría traer de vuelta a la partida a un PJ con trauma 4.",
+      "class":"Asesinos"
+		},
+		"(A) Ironhook Contacts": {
+			"name": "(A) Contactos en Ironhook",
+      "description":"Vuestro Nivel se considerará +1 cuando os encontréis encarcelados. La bonificación se aplica a cualquier elemento relacionado con el Nivel estando en prisión, incluida la tirada de encarcelamiento.",
+      "class":"Asesinos"
+		},
+		"(B) Bravos Rigging": {
+			"name": "(B) Pertrechos para Bravos",
+      "description":"Tenéis espacio para llevar armas o protección adicionales con valor de carga 2. Por ejemplo, puedes llevar una espada y una pistola, o portar una protección normal, y contabilizarlo como carga 0.",
+      "class":"Bravos"
+		},
+		"(B) Elite Rovers": {
+			"name": "(B) Ambulantes de élite",
+      "description":": Todas vuestras cohortes de tipo Ambulantes añaden +1d a las tiradas de calidad para las acciones relacionadas con su tipo.",
+      "class":"Bravos"
+		},
+		"(B) Elite Thugs": {
+			"name": "(B) Matones de élite",
+      "description":"Todas vuestras cohortes de tipo Matones añaden +1d a las tiradas de calidad para las acciones relacionadas con su tipo.",
+      "class":"Bravos"
+		},
+		"(B) Hardened": {
+			"name": "(B) Templados",
+      "description":"Cada PJ recibe 1 casilla de trauma adicional. Es necesario invertir tres mejoras para elegir esta opción. De esta forma se podría traer de vuelta a la partida a un PJ con trauma 4.",
+      "class":"Bravos"
+		},
+		"(B) Ironhook Contacts": {
+			"name": "(B) Contactos en Ironhook",
+      "description":"Vuestro Nivel se considerará +1 cuando os encontréis encarcelados. La bonificación se aplica a cualquier elemento relacionado con el Nivel estando en prisión, incluida la tirada de encarcelamiento.",
+      "class":"Bravos"
+		},
+		"(C) Cult Rigging": {
+			"name": "(Se) Pertrechos para sectarios",
+      "description":"Tenéis espacio para llevar documentos o utensilios con un valor de carga 2. Por ejemplo, puedes llevar un libro profano de maldiciones y la mano de un demonio y contabilizarlas como carga 0.",
+      "class":"Secta"
+		},
+		"(C) Elite Adepts": {
+			"name": "(Se) Adeptos de élite",
+      "description":"Todas vuestras cohortes de tipo Adeptos añaden +1d a las tiradas de calidad para las acciones relacionadas con su tipo.",
+      "class":"Secta"
+		},
+		"(C) Elite Thugs": {
+			"name": "(Se) Matones de élite",
+      "description":"Todas vuestras cohortes de tipo Matones añaden +1d a las tiradas de calidad para las acciones relacionadas con su tipo.",
+      "class":"Secta"
+		},
+		"(C) Ordained": {
+			"name": "(Se) Ordenados",
+      "description":" Cada PJ recibe 1 casilla de trauma adicional. Es necesario invertir tres mejoras, en vez de una, para elegir esta opción. De esta forma se podría traer de vuelta a la partida a un PJ con trauma 4.",
+      "class":"Secta"
+		},
+		"(C) Ritual Sanctum in Lair": {
+			"name": "(Se) Sanctasanctórum en la guarida",
+      "description":"Este lugar cuenta como un taller sagrado y arcano para prácticas y rituales ocultistas.",
+      "class":"Secta"
+		},
+		"(H) Composed": {
+			"name": "(Bu) Flemáticos",
+      "description":"Cada PJ recibe 1 casilla de estrés adicional. Es necesario invertir tres mejoras, en vez de una, para elegir esta opción.",
+      "class":"Buhoneros"
+		},
+		"(H) Elite Rooks": {
+			"name": "(Bu) Truhanes de élite",
+      "description":"Todas vuestras cohortes de tipo Truhanes añaden +1d a las tiradas de calidad para las acciones relacionadas con su tipo.",
+      "class":"Buhoneros"
+		},
+		"(H) Elite Thugs": {
+			"name": "(Bu) Matones de élite",
+      "description":": Todas vuestras cohortes de tipo Matones añaden +1d a las tiradas de calidad para las acciones relacionadas con su tipo.",
+      "class":"Buhoneros"
+		},
+		"(H) Hawker Rigging": {
+			"name": "(Bu) Pertrechos para Buhoneros",
+      "description":" Lleváis encima un objeto oculto que no ocupa espacio de carga. Por ejemplo, puedes llevar un montón de droga o un arma, perfectamente escondida, y contabilizarla como carga 0.",
+      "class":"Buhoneros"
+		},
+		"(H) Ironhook Contacts": {
+			"name": "(Bu) Contactos en Ironhook",
+      "description":"Vuestro Nivel se considerará +1 cuando os encontréis encarcelados. La bonificación se aplica a cualquier elemento relacionado con el Nivel estando en prisión, incluida la tirada de encarcelamiento.",
+      "class":"Buhoneros"
+		},
+		"(Sh) Elite Rooks": {
+			"name": "(So) Truhanes de élite",
+      "description":"Todas vuestras cohortes de tipo Truhanes añaden +1d a las tiradas de calidad para las acciones relacionadas con su tipo.",
+      "class":"Sombras"
+		},
+		"(Sh) Elite Skulks": {
+			"name": "(So) Furtivos de élite",
+      "description":"Todas vuestras cohortes de tipo Furtivos añaden +1d a las tiradas de calidad para las acciones relacionadas con su tipo.",
+      "class":"Sombras"
+		},
+		"(Sh) Steady": {
+			"name": "(So) Imperturbables",
+      "description":"Cada PJ recibe 1 casilla de estrés adicional. Es necesario invertir tres mejoras, en vez de una, para elegir esta opción.",
+      "class":"Sombras"
+		},
+		"(Sh) Thief Rigging": {
+			"name": "(So) Pertrechos para Sombras",
+      "description":"Podéis llevar equipo o herramientas con un valor de carga 2. Por ejemplo, puedes llevar equipo de robo y herramientas de ajuste y contabilizarlo todo como carga 0.",
+      "class":"Sombras"
+		},
+		"(Sh) Underground Maps and Passkeys": {
+			"name": "(So) Mapas subterráneos y llaves maestras",
+      "description":"Podéis atravesar fácilmente los canales subterráneos, túneles y sótanos de la ciudad.",
+      "class":"Sombras"
+		},
+		"(Sm) Barge": {
+			"name": "(Co) Barcaza",
+      "description":"Añade movilidad a la guarida. Podéis moverla a una nueva localización usando una tarea de la fase de descanso.",
+      "class":"Contrabandistas"
+		},
+		"(Sm) Camouflage": {
+			"name": "(Co) Camuflaje",
+      "description":": Vuestros vehículos están perfectamente escondidos cuando no se usan. Están camuflados o parecen vehículos normales (elegid).",
+      "class":"Contrabandistas"
+		},
+		"(Sm) Elite Rovers": {
+			"name": "(Co) Ambulantes de élite",
+      "description":": Todas vuestras cohortes de tipo Ambulantes añaden +1d a las tiradas de calidad para las acciones relacionadas con su tipo.",
+      "class":"Contrabandistas"
+		},
+		"(Sm) Smuggler Rigging": {
+			"name": "(Co) Pertrechos para Contrabandistas",
+      "description":"Podéis llevar dos objetos perfectamente escondidos. Por ejemplo, puedes llevar objetos de contrabando contabilizados como carga 1 y una pistola, todo perfectamente escondido incluso para un cacheo fortuito.",
+      "class":"Contrabandistas"
+		},
+		"(Sm) Steady": {
+			"name": "(Co) Imperturbables",
+      "description":"Cada PJ recibe 1 casilla de estrés adicional. Es necesario invertir tres mejoras, en vez de una, para elegir esta opción.",
+      "class":"Contrabandistas"
+		},
+		"(Sm) Vehicle 1": {
+			"name": "(Co) Vehículo 1",
+      "description":"Todos los contrabandistas comienzan con un vehículo.",
+      "class":"Contrabandistas"
+		},
+		"(Sm) Vehicle 2": {
+			"name": "(Co) Vehículo 2",
+      "description":"Cuando el vehículo se mejore (dos casillas), obtiene protección.",
+      "class":"Contrabandistas"
+		},
+		"Boat House 1": {
+			"name": "Embarcadero 1",
+      "description":"La banda posee un bote, un muelle de atraque en un canal y un pequeño cobertizo para almacenar suministros de navegación."
+		},
+		"Boat House 2": {
+			"name": "Embarcadero 2",
+      "description":"Una segunda mejora añade protección al bote y aumenta la capacidad de carga."
+		},
+		"Carriage House 1": {
+			"name": "Cochera 1",
+      "description":" La banda posee un carruaje, dos cabras para tirar de él y un establo. Los caballos son muy raros en Doskvol y la mayoría de los carruajes de la ciudad usan las grandes cabras akorosianas como animal de tiro."
+		},
+		"Carriage House 2": {
+			"name": "Cochera 2",
+      "description":"Una segunda mejora añade protección al carruaje y cambia las cabras por ejemplares mayores y más rápidos."
+		},
+		"Cohort 1": {
+			"name": "Cohorte 1",
+      "description":"Una cohorte es una pandilla o un PNJ experto que trabaja para la banda."
+		},
+		"Cohort 2": {
+			"name": "Cohorte 2",
+      "description":"Una cohorte es una pandilla o un PNJ experto que trabaja para la banda."
+		},
+		"Cohort 3": {
+			"name": "Cohorte 3",
+      "description":"Una cohorte es una pandilla o un PNJ experto que trabaja para la banda."
+		},
+		"Cohort 4": {
+			"name": "Cohorte 4",
+      "description":"Una cohorte es una pandilla o un PNJ experto que trabaja para la banda."
+		},
+		"Hidden Lair": {
+			"name": "Guarida oculta",
+      "description":" Tu guarida se halla en un lugar secreto y está oculta. Si alguna vez es descubierta, tendréis que usar dos tareas de la fase de descanso y un número de monedas igual a vuestro Nivel para reubicarla en otro lugar secreto."
+		},
+		"Mastery": {
+			"name": "Maestría",
+      "description":" La banda tiene acceso a entrenamiento de nivel maestro. Ahora las acciones de los PJ pueden mejorar hasta nivel 4 (antes de adquirir esta mejora, el nivel máximo de una acción es 3). Esta mejora cuesta cuatro casillas."
+		},
+		"Quality: Arcane Implements": {
+			"name": "Qualidade: Utensilios arcanos",
+      "description":"Cada mejora aumenta el nivel de calidad de todos los objetos de los PJ de ese tipo, aumentando la establecida por el Nivel de la banda y los objetos de calidad. Es posible mejorar la calidad de documentos, equipo (de robo y escalada), utensilios arcanos, suministros de subterfugio, herramientas (de demolición y ajuste) y armas. Por ejemplo, si sois de Nivel 0 y tienes unas ganzúas de calidad (+1) y la mejora de Calidad para el equipo (+1), podrías enfrentarte a una cerradura de Nivel II de calidad en igualdad de condiciones."
+		},
+		"Quality: Documents": {
+			"name": "Qualidade: Documentos",
+      "description":"Cada mejora aumenta el nivel de calidad de todos los objetos de los PJ de ese tipo, aumentando la establecida por el Nivel de la banda y los objetos de calidad. Es posible mejorar la calidad de documentos, equipo (de robo y escalada), utensilios arcanos, suministros de subterfugio, herramientas (de demolición y ajuste) y armas. Por ejemplo, si sois de Nivel 0 y tienes unas ganzúas de calidad (+1) y la mejora de Calidad para el equipo (+1), podrías enfrentarte a una cerradura de Nivel II de calidad en igualdad de condiciones."
+		},
+		"Quality: Gear": {
+			"name": "Qualidade: Equipo",
+      "description":"Cada mejora aumenta el nivel de calidad de todos los objetos de los PJ de ese tipo, aumentando la establecida por el Nivel de la banda y los objetos de calidad. Es posible mejorar la calidad de documentos, equipo (de robo y escalada), utensilios arcanos, suministros de subterfugio, herramientas (de demolición y ajuste) y armas. Por ejemplo, si sois de Nivel 0 y tienes unas ganzúas de calidad (+1) y la mejora de Calidad para el equipo (+1), podrías enfrentarte a una cerradura de Nivel II de calidad en igualdad de condiciones."
+		},
+		"Quality: Subterfuge Supplies": {
+			"name": "Qualidade: Suministros de subterfugio",
+      "description":"Cada mejora aumenta el nivel de calidad de todos los objetos de los PJ de ese tipo, aumentando la establecida por el Nivel de la banda y los objetos de calidad. Es posible mejorar la calidad de documentos, equipo (de robo y escalada), utensilios arcanos, suministros de subterfugio, herramientas (de demolición y ajuste) y armas. Por ejemplo, si sois de Nivel 0 y tienes unas ganzúas de calidad (+1) y la mejora de Calidad para el equipo (+1), podrías enfrentarte a una cerradura de Nivel II de calidad en igualdad de condiciones."
+		},
+		"Quality: Tools": {
+			"name": "Qualidade: Herramientas",
+      "description":"Cada mejora aumenta el nivel de calidad de todos los objetos de los PJ de ese tipo, aumentando la establecida por el Nivel de la banda y los objetos de calidad. Es posible mejorar la calidad de documentos, equipo (de robo y escalada), utensilios arcanos, suministros de subterfugio, herramientas (de demolición y ajuste) y armas. Por ejemplo, si sois de Nivel 0 y tienes unas ganzúas de calidad (+1) y la mejora de Calidad para el equipo (+1), podrías enfrentarte a una cerradura de Nivel II de calidad en igualdad de condiciones."
+		},
+		"Quality: Weapons": {
+			"name": "Qualidade: Armas",
+      "description":"Cada mejora aumenta el nivel de calidad de todos los objetos de los PJ de ese tipo, aumentando la establecida por el Nivel de la banda y los objetos de calidad. Es posible mejorar la calidad de documentos, equipo (de robo y escalada), utensilios arcanos, suministros de subterfugio, herramientas (de demolición y ajuste) y armas. Por ejemplo, si sois de Nivel 0 y tienes unas ganzúas de calidad (+1) y la mejora de Calidad para el equipo (+1), podrías enfrentarte a una cerradura de Nivel II de calidad en igualdad de condiciones."
+		},
+		"Quarters": {
+			"name": "Aposentos",
+      "description":": La guarida incluye aposentos para la banda. Si no se elige esta mejora, cada PJ tendrá que dormir en otro lugar, donde será más vulnerable."
+		},
+		"Secure Lair 1": {
+			"name": "Guarida segura 1",
+      "description":"La guarida tiene cerraduras, alarmas y trampas para detener a cualquier intruso. Si alguna vez se ponen a prueba estas medidas, se puede tirar por el Nivel de la banda para ver cómo de bien detienen a un intruso"
+		},
+		"Secure Lair 2": {
+			"name": "Guarida segura 2",
+      "description":"Una segunda mejora aumenta las defensas, incluyendo medidas arcanas que funcionan contra los espíritus."
+		},
+		"Training: Insight": {
+			"name": "Entrenamiento: Perspicacia",
+      "description":"Si la banda tiene una mejora de Entrenamiento, los miembros que entrenen un contador de PX concreto (Destreza, Perspicacia, Voluntad o los PX del libreto) ganarán 2 PX en lugar de 1. Esta mejora te ayuda a mejorar rápidamente la Perspicacia."
+		},
+		"Training: Personal Exp": {
+			"name": "Entrenamiento: Libreto",
+      "description":"Si la banda tiene una mejora de Entrenamiento, los miembros que entrenen un contador de PX concreto (Destreza, Perspicacia, Voluntad o los PX del libreto) ganarán 2 PX en lugar de 1. Esta mejora te ayuda a mejorar rápidamente el Libreto."
+		},
+		"Training: Prowess": {
+			"name": "Entrenamiento: Destreza",
+      "description":"Si la banda tiene una mejora de Entrenamiento, los miembros que entrenen un contador de PX concreto (Destreza, Perspicacia, Voluntad o los PX del libreto) ganarán 2 PX en lugar de 1. Esta mejora te ayuda a mejorar rápidamente la Destreza."
+		},
+		"Training: Resolve": {
+			"name": "Entrenamiento: Voluntad",
+      "description":"Si la banda tiene una mejora de Entrenamiento, los miembros que entrenen un contador de PX concreto (Destreza, Perspicacia, Voluntad o los PX del libreto) ganarán 2 PX en lugar de 1. Esta mejora te ayuda a mejorar rápidamente la Voluntad."
+		},
+		"Vault 1": {
+			"name": "Cámara acorazada 1",
+      "description":" La guarida cuenta con una cámara acorazada que incrementa la capacidad de almacenamiento hasta 8 Monedas. Se puede usar una sección separada de la cámara como celda para prisioneros."
+		},
+		"Vault 2": {
+			"name": "Cámara acorazada 2",
+      "description":"Una segunda mejora aumenta la capacidad hasta 16 Monedas."
+		},
+		"Workshop": {
+			"name": "Taller",
+      "description":"La guarida tiene un taller con herramientas preparado para modificar artilugios y practicar alquimia, así como una pequeña biblioteca, documentos y mapas. Se pueden completar proyectos a largo plazo con estos activos sin salir de la guarida."
+		}
+	}
+}

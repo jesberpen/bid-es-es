@@ -1,0 +1,69 @@
+{
+	"label": "Reputación de la Banda",
+	"entries": {
+		"Alluring": {
+			"name": "Seductora",
+			"description": ""
+		},
+		"Ambitious": {
+			"name": "Ambiciosa",
+			"description": ""
+		},
+		"Brutal": {
+			"name": "Brutal",
+			"description": ""
+		},
+		"Cruel": {
+			"name": "Cruel",
+			"description": ""
+		},
+		"Daring": {
+			"name": "Audaz",
+			"description": ""
+		},
+		"Ferocious": {
+			"name": "Feroz",
+			"description": ""
+		},
+		"Honorable": {
+			"name": "Honorable",
+			"description": ""
+		},
+		"Monstrous": {
+			"name": "Monstruosa",
+			"description": ""
+		},
+		"Professional": {
+			"name": "Profesional",
+			"description": ""
+		},
+		"Radiant": {
+			"name": "Radiante",
+			"description": ""
+		},
+		"Savvy": {
+			"name": "Astuta",
+			"description": ""
+		},
+		"Serene": {
+			"name": "Serena",
+			"description": ""
+		},
+		"Sinister": {
+			"name": "Siniestra",
+			"description": ""
+		},
+		"Strange": {
+			"name": "Extraña",
+			"description": ""
+		},
+		"Subtle": {
+			"name": "Sutil",
+			"description": ""
+		},
+		"Transcendent": {
+			"name": "Transcendente",
+			"description": ""
+		}
+	}
+}

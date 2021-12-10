@@ -1,0 +1,320 @@
+{
+	"label": "Capacidades Especiales",
+  "mapping": {
+    "description": "data.description",
+    "class":"data.class"
+  },
+  
+	"entries": {
+		"(C) Battleborn": {
+			"name": "(Saj)^ Gerrero Nato",
+      "description": "Puedes gastar tu protección especial para reducir el daño de un ataque en combate o para esforzarte durante una pelea.",
+      "class": "Sajador"      
+		},
+		"(C) Bodyguard": {
+			"name": "(Saj) Guardaespaldas",
+      "description": "Añade +1d a tu tirada de resistencia cuando protejas a un compañero de la banda. Además, tendrás efecto +1 cuando busques información para anticipar posibles amenazas del momento presente.",
+      "class": "Sajador"  
+		},
+		"(C) Ghost Fighter": {
+			"name": "(Saj) Guerrero fantasmal",
+      "description": "Puedes imbuir de energía espiritual tus manos, armas cuerpo a cuerpo o herramientas, lo cual te otorga eficacia cuando combatas a lo sobrenatural. Puedes forcejear con espíritus para inmovilizarlos y capturarlos.",
+      "class": "Sajador"        
+		},
+		"(C) Leader": {
+			"name": "(Saj) Líder",
+      "description": "Cuando quieras Mandar a una cohorte en una situación de combate, esta continuará luchando cuando haya sido devastada (no se retirará por sufrir daño de nivel 3) y además obtendrá efecto +1 y protección 1.",
+      "class": "Sajador"  
+		},
+		"(C) Mule": {
+			"name": "(Saj) Mula",
+      "description": "Tu límite de carga es más alto. Ligero: 5. Normal: 7. Pesado: 8.",
+      "class": "Sajador"        
+		},
+		"(C) Not to be Trifled With": {
+			"name": "(Saj) No juegues conmigo",
+      "description": "Puedes esforzarte para hacer una de las siguientes cosas: realizar una hazaña de fuerza física casi sobrehumana o enfrentarte cuerpo a cuerpo contra una pequeña pandilla en igualdad de condiciones.",
+      "class": "Sajador"  
+		},
+		"(C) Savage": {
+			"name": "(Saj) Brutal",
+      "description": "Tu violencia física desatada es una visión aterradora. Mandar a un objetivo asustado te otorga +1d.",
+      "class": "Sajador"        
+		},
+		"(C) Veteran": {
+			"name": "(Saj) Veterano",
+      "description": "Elige una capacidad especial de otro libreto.",
+      "class": "Sajador"  
+		},
+		"(C) Vigorous": {
+			"name": "(Saj) Robusto",
+      "description": "Te recuperas más rápido del daño. Rellena un sector de tu reloj de curación, que pasará siempre a estar así. Recibe también +1d en las tiradas de tratamientos curativos.",
+      "class": "Sajador"  
+		},
+		"(H) Focused": {
+			"name": "(Sab) Concentración",
+      "description": ": Puedes gastar tu protección especial para resistir una consecuencia de sorpresa o daño mental (miedo, confusión, perder el rastro de alguien…), o para esforzarte en un combate a distancia o rastreando.",
+      "class": "Sabueso"  
+		},
+		"(H) Ghost Hunter": {
+			"name": "(Sab) Cazador fantasmal",
+      "description": "El animal que te ayuda a cazar está imbuido de energía espiritual. Tiene eficacia a la hora de rastrear o luchar contra lo sobrenatural y recibe una capacidad arcana: forma fantasmal, enlace mental o la rapidez de una flecha. Si escoges esta habilidad una segunda vez, el animal recibe otra capacidad arcana.",
+      "class": "Sabueso"  
+		},
+		"(H) Scout": {
+			"name": "(Sab) Explorador",
+      "description": "Tienes efecto +1 cuando busques información para descubrir la ubicación de un objetivo. Cuando te ocultes en una posición privilegiada o uses camuflaje, recibes +1d a las tiradas para evitar ser detectado.",
+      "class": "Sabueso"  
+		},
+		"(H) Sharpshooter": {
+			"name": "(Sab)^ Tirador de primera",
+      "description": "Puedes esforzarte para hacer una de las siguientes: un ataque a una distancia superior al alcance del arma de fuego — descargar una lluvia de fuego para inmovilizar al enemigo.",
+      "class": "Sabueso"  
+		},
+		"(H) Survivor": {
+			"name": "(Sab) Superviviente",
+      "description": "Ya sea por tu dura experiencia o por un ritual ocultista, eres inmune al miasma venenoso de las Tierras de la Muerte y eres capaz de subsistir entre su extraña flora y fauna. +1 casilla de estrés.",
+      "class": "Sabueso"  
+		},
+		"(H) Tough as Nails": {
+			"name": "(Sab) Duro como una piedra",
+      "description": "Las penalizaciones que sufras por daño son de un nivel menor (el daño de nivel 4 sigue siendo mortal).",
+      "class": "Sabueso"  
+		},
+		"(H) Vengeful": {
+			"name": "(Sab) Vengativo",
+      "description": "Recibe un desencadenante de PX adicional: Vengarte de alguien que te ha hecho daño a ti o a alguien que te importa. Si la banda te ayuda a vengarte, anota también PX para la banda.",
+      "class": "Sabueso"  
+		},
+		"(H) Veteran": {
+			"name": "(Sab) Veterano",
+      "description": "Elige una capacidad especial de otro libreto.",
+      "class": "Sabueso"  
+		},
+		"(Le) Alchemist": {
+			"name": "(San)^ Alquimista",
+      "description": "Cuando inventes o fabriques una creación de características alquímicas, obtienes un +1 al nivel de resultado en la tirada. Comienzas conociendo una fórmula especial.",
+      "class": "Sanguijuela"  
+		},
+		"(Le) Analyst": {
+			"name": "(San) Analista",
+      "description": "Si tienes en marcha proyectos a largo plazo que tengan que ver con investigar, aprender fórmulas nuevas o diseñar un plan, puedes rellenar dos sectores de un reloj de uno de esos proyectos, o un sector de dos relojes, durante la fase de descanso.",
+      "class": "Sanguijuela"  
+		},
+		"(Le) Artificer": {
+			"name": "(San) Artificiero",
+      "description": "Cuando inventes o fabriques una creación con características de tecnología de chispa, obtienes un +1 al nivel de resultado en la tirada. Comienzas conociendo un diseño especial.",
+      "class": "Sanguijuela"  
+		},
+		"(Le) Fortitude": {
+			"name": "(San) Fortaleza",
+      "description": "Puedes gastar tu protección especial para resistir una consecuencia de fatiga, debilidad o efectos alquímicos, o para esforzarte cuando trabajes utilizando habilidades técnicas o manipulando sustancias alquímicas.",
+      "class": "Sanguijuela"  
+		},
+		"(Le) Ghost Ward": {
+			"name": "(San) Protección fantasmal",
+      "description": "Sabes cómo Destrozar un área con sustancias arcanas y dejarla yerma para cualquier otro uso, convirtiendo el lugar en un anatema o algo tentador para los espíritus (a tu elección).",
+      "class": "Sanguijuela"  
+		},
+		"(Le) Physicker": {
+			"name": "(San) Médico",
+      "description": "Puedes Trastear huesos, sangre y humores corporales para tratar heridas o estabilizar a los moribundos. Puedes Estudiar una enfermedad o un cadáver. Todos los de tu banda (incluido tú) añaden +1d a sus tiradas de tratamientos curativos.",
+      "class": "Sanguijuela"  
+		},
+		"(Le) Saboteur": {
+			"name": "(San) Saboteador",
+      "description": "Puedes Destrozar de forma mucho más sigilosa de lo habitual y el daño no será fácilmente visible en una inspección fortuita.",
+      "class": "Sanguijuela"  
+		},
+		"(Le) Venomous": {
+			"name": "(San) Venenoso",
+      "description": " Te has vuelto inmune a una droga o un veneno (elige uno que lleves en la bandolera). Puedes esforzarte para secretarlo a través de tu piel o saliva o exhalarlo en forma de vapor.",
+      "class": "Sanguijuela"  
+		},
+		"(Le) Veteran": {
+			"name": "(San) Veterano",
+      "description": "Elige una capacidad especial de otro libreto.",
+      "class": "Sanguijuela"  
+		},
+		"(Lu) Ambush": {
+			"name": "(Ac) Emboscada",
+      "description": "Cuando ataques desde las sombras o prepares una trampa, añade +1d a la tirada.",
+      "class": "Acechador"  
+		},
+		"(Lu) Daredevil": {
+			"name": "(Ac) Temerario",
+      "description": "Cada vez que tires una acción desesperada, añade +1d a la tirada si también aceptas otro –1d a cualquier tirada de resistencia contra las consecuencias de tu acción.",
+      "class": "Acechador"  
+		},
+		"(Lu) Expertise": {
+			"name": "(Ac) Pericia",
+      "description": ": Elige una de tus acciones. Cuando dirijas una acción en grupo con dicha acción, solo podrás sufrir un máximo de 1 punto de estrés, no importa la cantidad de tiradas fallidas.",
+      "class": "Acechador"  
+		},
+		"(Lu) Ghost Veil": {
+			"name": "(Ac) Velo fantasmal",
+      "description": "Puedes acceder parcialmente al campo fantasmal volviéndote una sombra insustancial durante unos instantes. La transformación te inflige 2 puntos de estrés, más 1 punto de estrés por cada una de las siguientes opciones: la transformación dura minutos en lugar de instantes; eres invisible en lugar de una sombra; flotas en el aire como un fantasma.",
+      "class": "Acechador"  
+		},
+		"(Lu) Infiltrator": {
+			"name": "(Ac)^ Infiltrado",
+      "description": "La calidad y el nivel no te afectan cuando estés tratando de eludir medidas de seguridad.",
+      "class": "Acechador"  
+		},
+		"(Lu) Reflexes": {
+			"name": "(Ac) Reflejos",
+      "description": "Si existe alguna duda sobre quién actúa primero, lo harás tú (si dos personajes tienen Reflejos, actúan a la vez).",
+      "class": "Acechador"  
+		},
+		"(Lu) Shadow": {
+			"name": "(Ac) Sombra",
+      "description": "Puedes gastar tu protección especial para resistir una consecuencia producida por medidas de seguridad o por haber sido detectado, o para esforzarte realizando una proeza atlética o de sigilo.",
+      "class": "Acechador"  
+		},
+		"(Lu) The Devil's Footsteps": {
+			"name": "(Ac) Pies diabólicos",
+      "description": "Elige una de las siguientes cosas adicionales cuando te esfuerces: realizar una hazaña atlética que raye en lo sobrehumano o maniobrar para confundir a tus enemigos y que se ataquen unos a otros por error.",
+      "class": "Acechador"  
+		},
+		"(Lu) Veteran": {
+			"name": "(Ac) Veterano",
+      "description": "Elige una capacidad especial de otro libreto.",
+      "class": "Acechador"  
+		}, 
+		"(Sl) A Little Something on the Side": {
+			"name": "(Ma) Beneficio adicional",
+      "description": "Al final de cada fase de descanso ganas depósito +2.",
+      "class": "Máscara"  
+		},
+		"(Sl) Cloak & Dagger": {
+			"name": "(Ma) Tapadera",
+      "description": "Añade +1d a las tiradas para despistar o no levantar sospechas cuando te disfraces o uses otro tipo de tapadera. Cuando te despojes de tu disfraz, la sorpresa resultante te garantizará la iniciativa.",
+      "class": "Máscara"  
+		},
+		"(Sl) Ghost Voice": {
+			"name": "(Ma) Voz Fantasmal",
+      "description": "Conoces el método secreto para interactuar con fantasmas o demonios y puedes tratar con ellos como si fueran personas humanas, no importa lo salvajes que puedan parecer. Tienes eficacia a la hora de comunicarte con lo sobrenatural.",
+      "class": "Máscara"  
+		},
+		"(Sl) Like Looking into a Mirror": {
+			"name": "(Ma) Como mirar en un espejo",
+      "description": "Siempre sabes si alguien te está mintiendo.",
+      "class": "Máscara"  
+		},
+		"(Sl) Mesmerism": {
+			"name": "(Ma) Mesmerismo",
+      "description": " Después de Influir en alguien puedes hacer que olvide lo que ha sucedido, pero volverá a recordarlo todo cuando vuelva a interactuar contigo.",
+      "class": "Máscara"  
+		},
+		"(Sl) Rook's Gambit": {
+			"name": "(Ma)^ El gambito de la torre",
+      "description": "Sufres 2 puntos de estrés para tirar con tu mejor acción al realizar una acción diferente. Explica cómo te adaptas para este uso.",
+      "class": "Máscara"  
+		},
+		"(Sl) Subterfuge": {
+			"name": "(Ma) subterfugio",
+      "description": " Puedes gastar tu protección especial para resistir una consecuencia provocada por sospechas o persuasión, o para esforzarte para hacer algún subterfugio.",
+      "class": "Máscara"  
+		},
+		"(Sl) Trust in Me": {
+			"name": "(Ma) Confía en mí",
+      "description": ": Obtienes +1d contra un objetivo con el que tengas una relación íntima.",
+      "class": "Máscara"  
+		},
+		"(Sl) Veteran": {
+			"name": "(Ma) Veterano",
+      "description": "Elige una capacidad especial de otro libreto.",
+      "class": "Máscara"  
+		},
+		"(Sp) Calculating": {
+			"name": "(Ar) Calculador",
+      "description": "Gracias a una planificación cuidadosa durante la fase de descanso, consigues 1 tarea adicional en la fase de descanso, para ti o para otro miembro de la banda",
+      "class": "Araña"  
+		},
+		"(Sp) Connected": {
+			"name": "(Ar) Conexiones",
+      "description": "Consigues un +1 al nivel de resultado cuando adquieras un activo o reduzcas riesgo en la fase de descanso.",
+      "class": "Araña"  
+		},
+		"(Sp) Foresight": {
+			"name": "(Ar)^ Previsión",
+      "description": "Puedes ayudar a un compañero de equipo sin sufrir estrés hasta un máximo de dos veces por golpe. Describe cómo te has preparado de antemano.",
+      "class": "Araña"  
+		},
+		"(Sp) Functioning Vice": {
+			"name": "(Ar) Vicio funcional",
+      "description": "Puedes ajustar el resultado de los dados en 1 o 2 (hacia arriba o hacia abajo) cuando satisfagas tu vicio. Si un aliado se une a ti, puede hacer lo mismo.",
+      "class": "Araña"  
+		},
+		"(Sp) Ghost  Contract": {
+			"name": "(Ar) Contrato fantasmal",
+      "description": "Cuando llegues a un acuerdo verbal o lo pongas por escrito, ambas partes (humanas o no) portarán una marca del juramento. Si cualquiera de ellas rompe el contrato, sufrirá el daño de nivel 3 «Maldito».",
+      "class": "Araña"  
+		},
+		"(Sp) Jail Bird": {
+			"name": "(Ar) Presidiario",
+      "description": ": Mientras estés encarcelado, vuestro nivel de búsqueda cuenta como 1 menos, vuestro Nivel como 1 más, y ganáis +1 de estatus con una facción a la que ayudéis mientras estés a la sombra (además de lo que lleguéis a obtener en la tirada de encarcelamiento).",
+      "class": "Araña"  
+		},
+		"(Sp) Mastermind": {
+			"name": "(Ar) Mente maestra",
+      "description": "Puedes gastar tu protección especial para proteger a un compañero de equipo o para esforzarte cuando estés buscando información o trabajando en un proyecto a largo plazo.",
+      "class": "Araña"  
+		},
+		"(Sp) Veteran": {
+			"name": "(Ar) Veterano",
+      "description": "Elige una capacidad especial de otro libreto.",
+      "class": "Araña"  
+		},
+		"(Sp) Weaving the Web": {
+			"name": "(Ar) Tejiendo la telaraña",
+      "description": "Añade +1d a Socializar cuando busques información sobre un objetivo para preparar un golpe. Añades +1d a la tirada de implicación de esa operación.",
+      "class": "Araña"  
+		},
+		"(W) Compel": {
+			"name": "(Su)^ Imposición",
+      "description": "Puedes Armonizar con el campo fantasmal para obligar a un fantasma cercano a aparecerse y obedecer una orden. No puedes sentir terror sobrenatural por un fantasma que hayas convocado o al que intentes imponerte, aunque tus aliados son otro cantar.",
+      "class": "Susurro"  
+		},
+		"(W) Ghost Mind": {
+			"name": "(Su) Mente Fantasmal",
+      "description": "Eres consciente en todo momento de la presencia de entidades sobrenaturales. Añade +1d siempre que estés buscando información sobre lo sobrenatural.",
+      "class": "Susurro"  
+		},
+		"(W) Iron Will": {
+			"name": "(Su) Voluntad de hierro",
+      "description": " Eres inmune al terror que produce la visión de algunas entidades sobrenaturales. Añade +1d cuando hagas una tirada de resistencia con Voluntad.",
+      "class": "Susurro"  
+		},
+		"(W) Occultist": {
+			"name": "(Su) Ocultista",
+      "description": ": Conoces los métodos secretos de Socializar con poderes antiguos, dioses olvidados o demonios. Cuando hayas contactado con una entidad, añade +1d para Mandar a sus adoradores.",
+      "class": "Susurro"  
+		},
+		"(W) Ritual": {
+			"name": "(Su) Ritual",
+      "description": "Conoces los métodos arcanos necesarios para realizar un ritual de hechicería. Puedes Estudiar un ritual ocultista (o crear uno nuevo) para convocar un efecto o un ser sobrenatural. Comienzas sabiendo un ritual.",
+      "class": "Susurro"  
+		},
+		"(W) Strange Methods": {
+			"name": "(Su) Métodos extraños",
+      "description": "Cuando inventes o fabriques una creación de características arcanas, obtienes un +1 al nivel de resultado. Comienzas conociendo un diseño arcano.",
+      "class": "Susurro"  
+		},
+		"(W) Tempest": {
+			"name": "(Su) Tempestad",
+      "description": "Puedes esforzarte para hacer una de las siguientes cosas: descargar un rayo y usarlo como arma en un ataque; convocar una tormenta en las cercanías (lluvia torrencial, vientos huracanados, niebla espesa, heladas y nieve, etcétera).",
+      "class": "Susurro"  
+		},
+		"(W) Veteran": {
+			"name": "(Su) Veterano",
+      "description": "Elige una capacidad especial de otro libreto.",
+      "class": "Susurro"  
+		},
+		"(W) Warded": {
+			"name": "(Su) Protegido",
+      "description": ": Puedes gastar tu protección especial para resistir una consecuencia sobrenatural o para esforzarte cuando te enfrentes a fuerzas arcanas o las emplees.",
+      "class": "Susurro"  
+		}
+	}
+}

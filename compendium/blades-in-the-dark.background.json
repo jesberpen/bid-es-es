@@ -1,0 +1,37 @@
+{
+	"label": "Antecedentes",
+  "mapping": {
+    "description": "data.description"
+  },
+  
+	"entries": {
+		"Academic": {
+			"name": "Académico",
+      "description": "Un erudito, profesor o estudiante de la Academia de Doskvol, un filósofo o periodista, etc."
+		},
+		"Labor": {
+			"name": "Obrero",
+      "description":"Un sirviente, obrero de fábrica, conductor de carruaje, estibador, marinero, juntarraíles, etc. Un estibador de la compañía North Hook."
+		},
+		"Law": {
+			"name": "Derecho",
+      "description":"Un abogado, casaca azul o inspector (o incluso un guardián espiritual), guardia de la prisión de Ironhook, etc."
+		},
+		"Military": {
+			"name": "Militar",
+      "description":"Un soldado imperial o skovlandés, mercenario, operativo de inteligencia, estratega, instructor de entrenamiento, etc."
+		},
+		"Noble": {
+			"name": "Nobleza",
+      "description":"Un diletante, cortesano, descendiente de una casa en decadencia, etc."
+		},
+		"Trade": {
+			"name": "comercial",
+      "description":"Un tendero, mercader, experto artesano, agente de envíos, etc. Un enlace con el Ministerio de Preservación."
+		},
+		"Underworld": {
+			"name": "Bajos fondos",
+      "description": "Un ratero callejero, miembro de una banda, joven matón u otro paria que ha crecido en la calle."
+		}
+	}
+}
