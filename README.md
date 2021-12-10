@@ -1,6 +1,6 @@
 # Blades in the Dark - Español
-Módulo de traducción Babele para Blades in the Dark
-<br>Non-oficial Babele translation module to spanish for Blades in the Dark in Foundry VTT
+Módulo de traducción Babele para el sistema y compendios para Blades in the Dark
+<br>Babele translation module to spanish for Blades in the Dark system and compendiums in Foundry VTT
 
 Este módulo no es oficial. / This module is fan made.
 
