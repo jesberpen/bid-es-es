@@ -73,7 +73,7 @@
 		},
 		"(C) Ordained": {
 			"name": "(Se) Ordenados",
-      "description":" Cada PJ recibe 1 casilla de trauma adicional. Es necesario invertir tres mejoras, en vez de una, para elegir esta opción. De esta forma se podría traer de vuelta a la partida a un PJ con trauma 4.",
+      "description":"Cada PJ recibe 1 casilla de trauma adicional. Es necesario invertir tres mejoras, en vez de una, para elegir esta opción. De esta forma se podría traer de vuelta a la partida a un PJ con trauma 4.",
       "class":"Secta"
 		},
 		"(C) Ritual Sanctum in Lair": {
@@ -98,7 +98,7 @@
 		},
 		"(H) Hawker Rigging": {
 			"name": "(Bu) Pertrechos para Buhoneros",
-      "description":" Lleváis encima un objeto oculto que no ocupa espacio de carga. Por ejemplo, puedes llevar un montón de droga o un arma, perfectamente escondida, y contabilizarla como carga 0.",
+      "description":"Lleváis encima un objeto oculto que no ocupa espacio de carga. Por ejemplo, puedes llevar un montón de droga o un arma, perfectamente escondida, y contabilizarla como carga 0.",
       "class":"Buhoneros"
 		},
 		"(H) Ironhook Contacts": {
@@ -176,7 +176,7 @@
 		},
 		"Carriage House 1": {
 			"name": "Cochera 1",
-      "description":" La banda posee un carruaje, dos cabras para tirar de él y un establo. Los caballos son muy raros en Doskvol y la mayoría de los carruajes de la ciudad usan las grandes cabras akorosianas como animal de tiro."
+      "description":"La banda posee un carruaje, dos cabras para tirar de él y un establo. Los caballos son muy raros en Doskvol y la mayoría de los carruajes de la ciudad usan las grandes cabras akorosianas como animal de tiro."
 		},
 		"Carriage House 2": {
 			"name": "Cochera 2",
@@ -200,11 +200,11 @@
 		},
 		"Hidden Lair": {
 			"name": "Guarida oculta",
-      "description":" Tu guarida se halla en un lugar secreto y está oculta. Si alguna vez es descubierta, tendréis que usar dos tareas de la fase de descanso y un número de monedas igual a vuestro Nivel para reubicarla en otro lugar secreto."
+      "description":"Tu guarida se halla en un lugar secreto y está oculta. Si alguna vez es descubierta, tendréis que usar dos tareas de la fase de descanso y un número de monedas igual a vuestro Nivel para reubicarla en otro lugar secreto."
 		},
 		"Mastery": {
 			"name": "Maestría",
-      "description":" La banda tiene acceso a entrenamiento de nivel maestro. Ahora las acciones de los PJ pueden mejorar hasta nivel 4 (antes de adquirir esta mejora, el nivel máximo de una acción es 3). Esta mejora cuesta cuatro casillas."
+      "description":"La banda tiene acceso a entrenamiento de nivel maestro. Ahora las acciones de los PJ pueden mejorar hasta nivel 4 (antes de adquirir esta mejora, el nivel máximo de una acción es 3). Esta mejora cuesta cuatro casillas."
 		},
 		"Quality: Arcane Implements": {
 			"name": "Qualidade: Utensilios arcanos",
@@ -260,7 +260,7 @@
 		},
 		"Vault 1": {
 			"name": "Cámara acorazada 1",
-      "description":" La guarida cuenta con una cámara acorazada que incrementa la capacidad de almacenamiento hasta 8 Monedas. Se puede usar una sección separada de la cámara como celda para prisioneros."
+      "description":"La guarida cuenta con una cámara acorazada que incrementa la capacidad de almacenamiento hasta 8 Monedas. Se puede usar una sección separada de la cámara como celda para prisioneros."
 		},
 		"Vault 2": {
 			"name": "Cámara acorazada 2",

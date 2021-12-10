@@ -8,8 +8,8 @@
 	"entries": {
 		"Cutter": {
       "name": "Sajador",
-      "description" : "Un guerrero peligroso e intimidante",
-      "experience_clues": "<br>- Respondiste a un desafío con violencia o coacción."
+      "description" : "Un guerrero peligroso e intimidante. PELEAR +2 / MANDAR +1",
+      "experience_clues": "<br>- Respondiste a un desafío con violencia o coacción.<h3>Plantillas de inicio</h3><p>Si quieres alg&uacute;n tipo de gu&iacute;a para asignar los cuatro puntos de acci&oacute;n y la capacidad especial, usa una de estas plantillas.</p><ul><li><strong>Capit&aacute;n:</strong>&nbsp;Analizar +2, Estudiar +1,&nbsp;Mandar +1. Capacidad: L&iacute;der.</li><li><strong>Cazador de demonios:</strong> Armonizar +2, Cazar +1, Estudiar +1. Capacidad: Guerrero fantasmal.</li><li><strong>Mat&oacute;n:</strong> Influir +1, Mandar +1, Socializar +2. Capacidad: No juegues conmigo.</li><li><strong>Terror:</strong> Acechar +2, Destrozar +2. Capacidad: Brutal.</li></ul><h3>Compa&ntilde;eros y rivales peligrosos</h3><ul><li><strong>Marlane,</strong> pugilista. &iquest;Una luchadora de los re&ntilde;ideros o tu antigua entrenadora de boxeo?</li><li><strong>Chael,</strong>&nbsp; mat&oacute;n feroz.&nbsp; &iquest;Miembro de una pandilla a la que perteneciste en el pasado o un agente independiente que una vez se cruz&oacute; en tu camino?</li><li><strong>Mercy,</strong> asesina sin escr&uacute;pulos. &iquest;Una asesina de alquiler o una criminal de los bajos fondos especialmente letal?</li><li><strong>Grace,</strong> extorsionista. &iquest;Una antigua compa&ntilde;era delincuente o una competidora actual?</li><li><strong>Sawtooth,</strong> m&eacute;dico. &iquest;Un compa&ntilde;ero durante la guerra o un carnicero que la cag&oacute; con tu tratamiento?</li></ul>"
 		},
 		"Ghost": {
 			"name": "Fantasma",
@@ -18,8 +18,8 @@
 		},
 		"Hound": {
 			"name": "Sabueso",
-      "description" : "Un certero rastreador y un francotirador mortal",
-      "experience_clues": "<br>- Respondiste a un desafío con violencia o siguiendo un rastro."      
+      "description" : "Un certero rastreador y un francotirador mortal. CAZAR +2 / ANALIZAR +1",
+      "experience_clues": "<br>- Respondiste a un desafío con violencia o siguiendo un rastro.<h3>Plantillas de inicio</h3><p>Si quieres alg&uacute;n tipo de gu&iacute;a para asignar los cuatro puntos de acci&oacute;n y la capacidad especial, usa una de estas plantillas.</p><ul><li><strong>Cazarrecompensas.</strong> Acechar +1,&nbsp;Pelear +2, Socializar +1. Capacidad: Explorador.</li><li><strong>Francotirador.</strong> Acechar +2, Analizar +1, Estudiar +1. Capacidad: Tirador de primera</li><li><strong>Montaraz de las Tierras de la&nbsp;Muerte</strong>. Acechar +1, Analizar +1, Armonizar +2. Capacidad: Superviviente.</li><li><strong>Veterano.</strong> Destrozar +1, Mandar +1, Pelear +2. Capacidad: Duro como una piedra.</li></ul><h3>Compa&ntilde;eros y rivales peligrosos</h3><ul><li><strong>Steiner,</strong> asesino. &iquest;Uno de tus competidores o un antiguo socio que ten&iacute;as antes de unirte a la banda?</li><li><strong>Celene,</strong>&nbsp; centinela.&nbsp; Celene es una guardiana, una protectora. &iquest;A qui&eacute;n protege?</li><li><strong>Melvir,</strong> m&eacute;dico. &iquest;Un viejo amigo que te ha curado muchas veces o alguien que ha atendido a muchas de tus v&iacute;ctimas?</li><li><strong>Veleris,</strong> esp&iacute;a. &iquest;A qui&eacute;n informa Veleris?</li><li><strong>Casta,</strong> cazarrecompensas. &iquest;Una antigua mentora que te entren&oacute; en las artes letales, o viceversa?</li></ul>"      
 		},
 		"Hull": {
 			"name": "Cascarón",
@@ -28,23 +28,23 @@
 		},
 		"Leech": {
 			"name": "Sanguijuela",
-      "description" : "Un saboteador y una mente analítica",
-      "experience_clues": "<br>- Respondiste a un desafío con tu habilidad técnica o sembrando el caos."      
+      "description" : "Un saboteador y una mente analítica. TRASTEAR +2 / DESTROZAR +1",
+      "experience_clues": "<br>- Respondiste a un desafío con tu habilidad técnica o sembrando el caos.<h3>Plantillas de inicio</h3><p>Si quieres alg&uacute;n tipo de gu&iacute;a para asignar los cuatro puntos de acci&oacute;n y la capacidad especial, usa una de estas plantillas.</p><ul><li><strong>Bruja.</strong> Armonizar +2, Estudiar +2. Capacidad: Alquimista.</li><li><strong>Doctor.</strong> Afinar +1, Estudiar +2, Socializar +1. Capacidad: M&eacute;dico.</li><li><strong>V&iacute;bora.</strong> Acechar +2, Influir +2. Capacidad: Venenoso.</li><li><strong>Zapador.</strong> Analizar +2, Destruir +1, Estudiar +1. Capacidad: Saboteador.</li></ul><h3>Compa&ntilde;eros y rivales peligrosos</h3><ul><li><strong>Stazia,</strong> boticaria. &iquest;Una antigua criminal que se reform&oacute; entrando en el negocio alqu&iacute;mico o todo lo contrario?</li><li><strong>Veldren,</strong> psiconauta. &iquest;Un adicto demasiado perjudicado como para no volver a estar l&uacute;cido nunca m&aacute;s o un explorador de reinos psicod&eacute;licos de m&aacute;s all&aacute; de la mera experiencia mortal?</li><li><strong>Eckerd,</strong> ladr&oacute;n de cad&aacute;veres. &iquest;Una buena fuente de &laquo;materia prima&raquo;?</li><li><strong>Jul,</strong> proveedor de sangre. &iquest;Tiene m&aacute;s clientes extra&ntilde;os?</li><li><strong>Malista,</strong> sacerdotisa. &iquest;Para qu&eacute; dios olvidado oficia servicios?</li></ul>"      
 		},
 		"Lurk": {
 			"name": "Acechador",
-      "description" : "Un ratero y espía sigiloso",
-      "experience_clues": "<br>- Respondiste a un desafío con sigilo o evasión."      
+      "description" : "Un ratero y espía sigiloso. AFINAR +1 / ACECHAR +2",
+      "experience_clues": "<br>- Respondiste a un desafío con sigilo o evasión.<h3>Plantillas de inicio</h3><p>Si quieres alg&uacute;n tipo de gu&iacute;a para asignar los cuatro puntos de acci&oacute;n y la capacidad especial, usa una de estas plantillas.</p><ul><li><strong>Acr&oacute;bata.</strong> Afinar +1, Influir +1, Socializar +2. Capacidad: Pies diab&oacute;licos.</li><li><strong>Asesino.</strong> Cazar +2, Pelear +2. Capacidad: Emboscada.</li><li><strong>Granuja audaz.</strong> Pelear +2, Socializar +2. Capacidad: Temerario.</li><li><strong>Ladr&oacute;n.</strong> Afinar +1, Analizar +2, Trastear +1. Capacidad: Infiltrado.</li></ul><h3>Compa&ntilde;eros y rivales peligrosos</h3><ul><li><strong>Telda,</strong> mendiga. &iquest;La mentora que te ense&ntilde;&oacute; tus habilidades o una ladrona furtiva rival?</li><li><strong>Darmot,</strong> casaca azul. &iquest;Agente experto que te ha arrestado muchas veces o un viejo amigo que prefiri&oacute; la ley al crimen?</li><li><strong>Frake,</strong> cerrajero. &iquest;Un experto al que recurres o un maestro que fabrica cerraduras que no puedes abrir?</li><li><strong>Roslyn Kellis,</strong>&nbsp; noble. &iquest;Una vieja amiga y confidente o una v&iacute;ctima de tus actividades de espionaje que est&aacute; decidida a vengarse?</li><li><strong>Petra,</strong> funcionaria. &iquest;Una buena fuente de informaci&oacute;n?</li></ul>"      
 		},
 		"Slide": {
 			"name": "Máscara",
-      "description" : "Un espía y sutil manipulador",
-      "experience_clues": "<br>- Respondiste a un desafío con artimañas o usando tus influencias."      
+      "description" : "Un espía y sutil manipulador. SOCIALIZAR +1 / INFLUIR +2",
+      "experience_clues": "<br>- Respondiste a un desafío con artimañas o usando tus influencias.<h3>Plantillas de inicio</h3><p>Si quieres alg&uacute;n tipo de gu&iacute;a para asignar los cuatro puntos de acci&oacute;n y la capacidad especial, usa una de estas plantillas.</p><ul><li><strong>Sirena.</strong> Acechar +1, Armonizar +2,&nbsp;Socializar +1. Capacidad: Conf&iacute;a en m&iacute;.</li><li><strong>Prestigio.</strong> Acechar +2, Afinar +2. Capacidad: Mesmerismo.</li><li><strong>Estafador.</strong> Afinar +2, Estudiar +1, Socializar +1. Capacidad: Beneficio adicional.</li><li><strong>Esp&iacute;a.</strong> Afinar +1, Acechar +2, Pelear +1. Capacidad: Tapadera.</li></ul><h3>Compa&ntilde;eros y rivales peligrosos</h3><ul><li><strong>Bryl,</strong> traficante de drogas. &iquest;Un contacto fiable de los bajos fondos o un antiguo socio resentido por algo?</li><li><strong>Bazso Baz,</strong> l&iacute;der de una pandilla. &iquest;Un pretendiente que busca tu afecto o un antiguo amante despechado?</li><li><strong>Klyra,</strong> due&ntilde;a de una taberna. &iquest;Una buena fuente de chismes?</li><li><strong>Nyryx,</strong> prostituta. &iquest;Una confidente que tantea a potenciales presas o una manipuladora rival?</li><li><strong>Harker,</strong>&nbsp; presidiario.&nbsp; &iquest;Un amigo a quien ayudaste cuando estabas en prisi&oacute;n o el enemigo que te hiri&oacute; mientras estuviste encarcelado?</li></ul>"      
 		},
 		"Spider": {
 			"name": "Araña",
-      "description" : "Una peligrosa mente maestra",
-      "experience_clues": "<br>- Respondiste a un desafío con maquinaciones o conspirando."
+      "description" : "Una peligrosa mente maestra. ESTUDIAR +1 / SOCIALIZAR +2",
+      "experience_clues": "<br>- Respondiste a un desafío con maquinaciones o conspirando.<h3>Plantillas de inicio</h3><p>Si quieres alg&uacute;n tipo de gu&iacute;a para asignar los cuatro puntos de acci&oacute;n y la capacidad especial, usa una de estas plantillas.</p><ul><li><strong>Arbitrador.</strong> Armonizar +2, Estudiar +1, Influir +1. Capacidad: Contrato fantasmal.</li><li><strong>Cabecilla.</strong> Analizar +2, Mandar +2.&nbsp; Capacidad: Previsi&oacute;n.</li><li><strong>Convicto.</strong> Influir +1, Mandar +1,&nbsp; Pelear +2. Capacidad: Presidiario.</li><li><strong>Operativo.</strong> Acechar +2, Trastear +2.&nbsp; Capacidad: Mente maestra.</li></ul><h3>Compa&ntilde;eros y rivales peligrosos</h3><ul><li><strong>Salia,</strong> proveedora de informaci&oacute;n.&nbsp; &iquest;Un contacto fiable para encontrar trabajos o una antigua socia que te delat&oacute;?</li><li><strong>Augus,</strong>&nbsp; maestro arquitecto.&nbsp; &iquest;Una buena fuente para conseguir planos y detalles hist&oacute;ricos o un rival que dise&ntilde;a medidas de seguridad?</li><li><strong>Jennah,</strong>&nbsp; sirvienta.&nbsp; &iquest;Una fuente de chismes de la clase alta?</li><li><strong>Riven,</strong> qu&iacute;mico. &iquest;Una buena fuente de medicamentos para curarse?</li><li><strong>Jeren,</strong> archivero de los casacas azules.&nbsp; &iquest;Un agente doble dentro de la Guardia Urbana o un agente demasiado curioso que se ha interesado por vuestros cr&iacute;menes?</li></ul>"
 		},
 		"Vampire": {
 			"name": "Vampiro",
@@ -53,12 +53,8 @@
 		},
 		"Whisper": {
 			"name": "Susurro",
-      "description" : "Un adepto de lo arcano y médium",
-      "experience_clues": "<br>- Respondiste a un desafío con tus conocimientos o poderes arcanos."            
+      "description" : "Un adepto de lo arcano y médium. ESTUDIAR +1 / ARMONIZAR +2",
+      "experience_clues": "<br>- Respondiste a un desafío con tus conocimientos o poderes arcanos.<h3>Plantillas de inicio</h3><p>Si quieres alg&uacute;n tipo de gu&iacute;a para asignar los cuatro puntos de acci&oacute;n y la capacidad especial, usa una de estas plantillas.</p><ul><li><strong>Invocador.</strong> Analizar +2, Estudiar +1,&nbsp;Mandar +1. Capacidad: Imposici&oacute;n.</li><li><strong>Sectario.</strong> Mandar +2, Socializar +2. Capacidad: Ocultista.</li><li><strong>Canalizador.</strong> Destrozar +2, Pelear +2.&nbsp; Capacidad: Tempestad.</li><li><strong>Erudito oscuro.</strong> Estudiar +1, Socializar +1, Trastear +2. Capacidad: Ritual.</li></ul><h3>Compa&ntilde;eros y rivales peligrosos</h3><ul><li><strong>Nyryx,</strong>&nbsp; fantasma poseedor.&nbsp; &iquest;Una fuente para encontrar objetivos o un esp&iacute;ritu que escap&oacute; de tu servicio?</li><li><strong>Scurlock,</strong> vampiro. &iquest;Un mentor o un rival mortal?</li><li><strong>Setarra,</strong> una demonio. &iquest;Tu socia en alguna oscura empresa o una entidad que controlaste en el pasado y que ahora busca venganza?</li><li><strong>Quellyn,</strong> bruja. &iquest;Una experta sanadora y vidente o una estudiante tuya que se march&oacute; resentida?</li><li><strong>Flint,</strong> traficante de esp&iacute;ritus. &iquest;Una fuente de suministros arcanos inusuales o un rival en el mundo ocultista de Duskwall?</li></ul>"            
 		}
 	}
 }
-
-
-
-

@@ -8,22 +8,22 @@
 	"entries": {
 		"(A) Crow's Veil": {
 			"name": "(A) Cuervos velados",
-      "description" :": La dura experiencia o un ritual ocultista os permite ocultar vuestras actividades de la vista de los cuervos rastreadores de muerte. No sufrís riesgo extra cuando un golpe implique asesinato.",
+      "description" :"La dura experiencia o un ritual ocultista os permite ocultar vuestras actividades de la vista de los cuervos rastreadores de muerte. No sufrís riesgo extra cuando un golpe implique asesinato.",
       "class": "Asesinos"      
 		},
 		"(A) Deadly": {
 			"name": "(A)^ Letales",
-      "description" :" Cada PJ puede añadir +1 al valor de Acechar, Cazar o Pelear (máximo 3).",
+      "description" :"Cada PJ puede añadir +1 al valor de Acechar, Cazar o Pelear (máximo 3).",
       "class": "Asesinos"      
 		},
 		"(A) Emberdeath": {
 			"name": "(A) Brasas mortales",
-      "description" :" La dura experiencia o un ritual ocultista os permite conocer el método arcano para destruir el espíritu de una víctima en el momento que muere. Si sufres 3 puntos de estrés, puedes canalizar la energía electroplasmática del campo fantasmal y desintegrar el espíritu y el cuerpo en una lluvia de brasas chispeantes.",
+      "description" :"La dura experiencia o un ritual ocultista os permite conocer el método arcano para destruir el espíritu de una víctima en el momento que muere. Si sufres 3 puntos de estrés, puedes canalizar la energía electroplasmática del campo fantasmal y desintegrar el espíritu y el cuerpo en una lluvia de brasas chispeantes.",
       "class": "Asesinos"      
 		},
 		"(A) No Traces": {
 			"name": "(A) Sin rastro",
-      "description" :" Si mantenéis la operación en secreto o hacéis que parezca un accidente, obtenéis la mitad del valor de rep del objetivo (redondeando hacia arriba) en lugar de 0. Si finalizáis la fase de descanso con riesgo 0, recibís rep +1.",
+      "description" :"Si mantenéis la operación en secreto o hacéis que parezca un accidente, obtenéis la mitad del valor de rep del objetivo (redondeando hacia arriba) en lugar de 0. Si finalizáis la fase de descanso con riesgo 0, recibís rep +1.",
       "class": "Asesinos"      
 		},
 		"(A) Patron": {
@@ -33,7 +33,7 @@
 		},
 		"(A) Predators": {
 			"name": "(A) Depredadores",
-      "description" :" Cuando uséis un plan basado en el sigilo o el engaño para cometer un asesinato, añadís +1d a la tirada de implicación.",
+      "description" :"Cuando uséis un plan basado en el sigilo o el engaño para cometer un asesinato, añadís +1d a la tirada de implicación.",
       "class": "Asesinos"      
 		},
 		"(A) Veteran": {
@@ -48,7 +48,7 @@
 		},
 		"(Br) Blood Brothers": {
 			"name": "(Br) Hermanos de sangre",
-      "description" :" Cuando luchéis junto a vuestras cohortes en un combate, estas añaden +1d a las tiradas de trabajo en equipo (preparación y acciones en grupo). Todas vuestras cohortes son de tipo Matones sin coste alguno (si ya son, se añade otro tipo).",
+      "description" :"Cuando luchéis junto a vuestras cohortes en un combate, estas añaden +1d a las tiradas de trabajo en equipo (preparación y acciones en grupo). Todas vuestras cohortes son de tipo Matones sin coste alguno (si ya son, se añade otro tipo).",
 	  "class": "Bravos"  
 		},
 		"(Br) Dangerous": {
@@ -73,7 +73,7 @@
 		},
 		"(Br) Patron": {
 			"name": "(Br) Patrón",
-      "description" :" Subir de Nivel os cuesta la mitad de monedas de lo que os costaría normalmente. ¿Quién es vuestro patrón? ¿Por qué os ayuda?",
+      "description" :"Subir de Nivel os cuesta la mitad de monedas de lo que os costaría normalmente. ¿Quién es vuestro patrón? ¿Por qué os ayuda?",
 	  "class": "Bravos"
 		},
 		"(Br) Veteran": {
@@ -93,17 +93,17 @@
 		},
 		"(C) Bound in Darkness": {
 			"name": "(Se) Unidos en la oscuridad",
-      "description" :" Podéis hacer trabajo en equipo con cualquier otro miembro de la secta, no importa la distancia que os separe. Podéis susurrar un mensaje que oigan todos los sectarios sufriendo 1 punto de estrés.",
+      "description" :"Podéis hacer trabajo en equipo con cualquier otro miembro de la secta, no importa la distancia que os separe. Podéis susurrar un mensaje que oigan todos los sectarios sufriendo 1 punto de estrés.",
       "class": "Secta"      
 		},
 		"(C) Chosen": {
 			"name": "(Se)^ Elegidos",
-      "description" :" Cada PJ puede añadir +1 al valor de Armonizar, Estudiar o Influir (máximo 3).",
+      "description" :"Cada PJ puede añadir +1 al valor de Armonizar, Estudiar o Influir (máximo 3).",
       "class": "Secta"      
 		},
 		"(C) Conviction": {
 			"name": "(Se) Convicción",
-      "description" :" Cada PJ adquiere un vicio adicional: Devoción. Este vicio no os hará perder el control al eliminar estrés de más cuando lo satisfagáis y proporcionéis un sacrificio apropiado. Además, la deidad os ayudará en una tirada de acción que hagáis, desde ahora hasta que satisfagáis de nuevo este vicio.",
+      "description" :"Cada PJ adquiere un vicio adicional: Devoción. Este vicio no os hará perder el control al eliminar estrés de más cuando lo satisfagáis y proporcionéis un sacrificio apropiado. Además, la deidad os ayudará en una tirada de acción que hagáis, desde ahora hasta que satisfagáis de nuevo este vicio.",
       "class": "Secta"      
 		},
 		"(C) Glory Incarnate": {
@@ -138,7 +138,7 @@
 		},
 		"(H) High Society": {
 			"name": "(Bu) Alta Sociedad",
-      "description" :": Lo que realmente importa es a quién conoces. –1 de riesgo durante la fase de descanso y +1d al buscar información sobre la élite de la ciudad.",
+      "description" :"Lo que realmente importa es a quién conoces. –1 de riesgo durante la fase de descanso y +1d al buscar información sobre la élite de la ciudad.",
       "class": "Buhoneros"      
 		},
 		"(H) Hooked": {
@@ -148,7 +148,7 @@
 		},
 		"(H) Patron": {
 			"name": "(Bu) Patrón",
-      "description" :": Subir de Nivel os cuesta la mitad de monedas de lo que os costaría normalmente. ¿Quién es vuestro patrón? ¿Por qué os ayuda?",
+      "description" :"Subir de Nivel os cuesta la mitad de monedas de lo que os costaría normalmente. ¿Quién es vuestro patrón? ¿Por qué os ayuda?",
       "class": "Buhoneros"      
 		},
 		"(H) Silver Tongues": {
@@ -198,7 +198,7 @@
 		},
 		"(Sh) Synchronized": {
 			"name": "(So) Sincronizados",
-      "description" :": Cuando realicéis una acción en grupo, podéis contar varios 6 de diferentes tiradas como un éxito crítico.",
+      "description" :"Cuando realicéis una acción en grupo, podéis contar varios 6 de diferentes tiradas como un éxito crítico.",
       "class": "Sombras"      
 		},
 		"(Sh) Veteran": {
@@ -213,7 +213,7 @@
 		},
 		"(Sm) Ghost Passage": {
 			"name": "(Co) Transporte de fantasmas",
-      "description" :" Todos los miembros de la banda son inmunes a la posesión de espíritus gracias a una experiencia extraña o un ritual ocultista, pero pueden «llevar» a un fantasma como pasajero dentro de su cuerpo.",
+      "description" :"Todos los miembros de la banda son inmunes a la posesión de espíritus gracias a una experiencia extraña o un ritual ocultista, pero pueden «llevar» a un fantasma como pasajero dentro de su cuerpo.",
       "class": "Contrabandistas"      
 		},
 		"(Sm) Just Passing Through": {

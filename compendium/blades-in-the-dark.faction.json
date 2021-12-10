@@ -22,7 +22,7 @@
         "goal_1": "Obtener un presupuesto más grande, armas militares y equipo",
         "turf": "Los casacas azules consideran que toda la ciudad es su territorio, pero su influencia está severamente limitada en Whitecrown, donde la guarnición militar imperial tiene el dominio bajo el mando del Lord Gobernador.",
         "assets": "Muchas pandillas extensas de matones despiadados en uniforme. Coches blindados y patrulleras de canal. Lugares de castigo público (picotas, cepos, jaulas colgantes).",
-        "quirks": " Los casacas azules se dividen en compañías según los distritos. Mantienen feroces rivalidades entre sí, alentadas por sus superiores a menudo por sana competitividad, pero a veces resultan violentas.",
+        "quirks": "Los casacas azules se dividen en compañías según los distritos. Mantienen feroces rivalidades entre sí, alentadas por sus superiores a menudo por sana competitividad, pero a veces resultan violentas.",
         "notables": "- Comandante Clelland (comisario jefe de la Guardia Urbana, corrupto, cruel, arrogante).\n- Capitán Michter (instructor jefe, ambicioso, feroz, seguro).\n- Capitán Vale (intendente, leal, perspicaz, tranquilo).",
         "allies": "El Consejo Municipal, las Hoces, los Cuervos, la Prisión de Ironhook, lord Scurlock, los Invisibles.",
         "enemies": "Militares imperiales, muchas organizaciones criminales.",
@@ -43,11 +43,11 @@
         "type": "Instituciones",
         "goal_1": "Strangford es eliminado del consejo",
         "goal_2": "Strangford elimina las amenazas",
-        "turf": " Las cámaras del consejo municipal están en Charterhall, junto con las oficinas gubernamentales y las inexpugnables cámaras acorazadas del tesoro de la ciudad. El consejo es propietario de todos los espacios públicos de la ciudad, incluidas las calles, los muelles y los canales",
+        "turf": "Las cámaras del consejo municipal están en Charterhall, junto con las oficinas gubernamentales y las inexpugnables cámaras acorazadas del tesoro de la ciudad. El consejo es propietario de todos los espacios públicos de la ciudad, incluidas las calles, los muelles y los canales",
         "assets": "Un tesoro considerable en monedas y bienes valiosos. Muchos funcionarios, abogados y empleados. Los carruajes públicos conducidos por los Cocheros.",
         "quirks": "Todos los miembros del Consejo son adeptos de alto rango en la Iglesia del Éxtasis de la Carne. Algunos de ellos también son iniciados en el Camino de los Ecos, pero en secreto.",
         "notables": "Los vástagos de las seis familias nobles más poderosas de Doskvol. Los actuales son Bowmore, Clelland, Dunvil, Penderyn, Rowan y Strangford.",
-        "allies": " Los casacas azules, la Iglesia del Éxtasis, el Círculo de la Llama, lord Scurlock, la Brigada, cocheros, Chispas, la Fundación.",
+        "allies": "Los casacas azules, la Iglesia del Éxtasis, el Círculo de la Llama, lord Scurlock, la Brigada, cocheros, Chispas, la Fundación.",
         "enemies": "Ejército Imperial, Inspectores, Ministerio de Preservación, los Reconciliados.",
         "situation": "Tres de los concejales (Bowmore, Clelland, Rowan) se han alineado contra Strangford y están maniobrando para expulsar la casa del consejo. Dunvil y Penderyn no han tomado partido hasta ahora. ¿Podrán preparar los conspiradores los escándalos, incriminaciones o asesinatos necesarios para eliminar a Strangford? ¿O la Casa Strangford resistirá y eliminará las amenazas?"   
       },
@@ -65,7 +65,7 @@
         "assets": "Generadores, lazos relámpago, máscaras de gas, tanques de aire y otros elementos esenciales para sobrevivir en las Tierras de la Muerte. Un antiguo libro secreto de hechicería ritual.",
         "quirks": "La posesión es un peligro común y los carroñeros aprenden a lidiar con ella o enloquecer y desaparecer en la oscuridad de la desolación. Los que siguen en compañía de lady Thorn se han adaptado bien y solo han sufrido los efectos negativos mínimos de la posesión.",
         "notables": "- Lady Thorn (lideresa, embrujada, valiente, cariñosa).\n- Richter (cazador, paciente, tranquilo, mortal).",
-        "allies": " Los Dioses Olvidados, gondoleros, Guardianes Espirituales.",
+        "allies": "Los Dioses Olvidados, gondoleros, Guardianes Espirituales.",
         "enemies": "Prisión de Ironhook.",
         "situation": "Algunas veces se tiene «misericordia» de los presos condenados y se los envía a las Tierras de la Muerte en lugar de ejecutarlos en Ironhook. Algunos sobreviven, gracias a lady Thorn y sus carroñeros, que los acogen y los entrenan en las formas de caza y supervivencia de las Tierras de la Muerte. Los carroñeros buscan objetos y tesoros perdidos en la desolación para venderlos o comerciar con ellos en la ciudad, consiguiendo a veces lo suficiente como para comprar un indulto y volver a la vida dentro de las barreras."   
       },
@@ -84,7 +84,7 @@
         "assets": "Flota de góndolas y otras embarcaciones acuáticas. Mapa de los pozos espirituales conocidos y otros sitios arcanos de la ciudad. Una cohorte de Adeptos.",
         "quirks": "La iniciación en los Gondoleros otorga la capacidad especial Imposición, de los Susurros.",
         "notables": "- Eisele (lideresa, serena, experimentada, intrépida).\n- Griggs (jefe Susurro, extraño, despiadado, atormentado).",
-        "allies": " Los Renegridos, los ciudadanos de todos los distritos.",
+        "allies": "Los Renegridos, los ciudadanos de todos los distritos.",
         "enemies": ": Los Fajines Rojos, Guardianes Espirituales.",
         "situation": "Los asesinos han usado los canales para deshacerse de los cuerpos durante siglos, y desde entonces los gondoleros han estado lidiando con la amenaza de los fantasmas que surgían de los cadáveres buscando venganza. Los gondoleros ya protegían a los ciudadanos de los espíritus malvados y de los peligros sobrenaturales de todo tipo antes de que los Guardianes Espirituales fueran creados por el Emperador. Los Gondoleros son queridos por la mayoría de los ciudadanos, que prefieren acudir a ellos con «problemas extraños» en lugar de depender del despiadado e indiscriminado juicio de los Guardianes Espirituales. Los Gondoleros están investigando ahora una afluencia repentina de masas ritualmente desfiguradas que están siendo arrojadas en los canales, que parece que los Guardianes Espirituales están ignorando."   
       },
@@ -95,12 +95,12 @@
       },
       "Ink Rakes":{
          "name":"Rascatintas",
-         "description":" Los periodistas, investigadores y editores de periódicos de Doskvol.",
+         "description":"Los periodistas, investigadores y editores de periódicos de Doskvol.",
         "type": "Obreros y comerciantes" 
       },
       "Inspectors":{
          "name":"Inspectores",
-         "description":" Los investigadores de crímenes de la Guardia Urbana. Tienen reputación de ser personas éticas e íntegras (y no les gustan a nadie). Presentan las pruebas para investigaciones y juicios a los magistrados de la ciudad.",
+         "description":"Los investigadores de crímenes de la Guardia Urbana. Tienen reputación de ser personas éticas e íntegras (y no les gustan a nadie). Presentan las pruebas para investigaciones y juicios a los magistrados de la ciudad.",
         "type": "Instituciones"
       },
       "Ironhook Prison":{
@@ -129,7 +129,7 @@
         "goal_2": "Obtener secretos arcanos (repetible)",
         "turf": "Una guarida secreta fuera de la ciudad. Una casa solariega en ruinas en Seis Torres con catacumbas debajo. Una serie de explotaciones comerciales y santuarios de culto en toda la ciudad, adquiridos para algún propósito que solo conoce Scurlock.",
         "assets": "Una impresionante colección de curiosidades ocultistas y arcanas, libros y otros objetos. Un antiguo templo demoníaco.",
-        "quirks": " Scurlock es inmune a los espíritus. Los fantasmas no pueden verlo, oírlo ni dañarlo. No hace ningún ruido cuando se mueve y a veces es difícil mirarlo directamente.",
+        "quirks": "Scurlock es inmune a los espíritus. Los fantasmas no pueden verlo, oírlo ni dañarlo. No hace ningún ruido cuando se mueve y a veces es difícil mirarlo directamente.",
         "notables": "Lord Scurlock (enigmático, frío, arcano, anticuado) es solo un individuo, pero tan poderoso que se le considera una facción. Su escala personal es Nivel III; en conflictos cuenta como una pandilla grande (20 personas).",
         "allies": "Consejo Municipal, casacas azules, Inspectores, Dioses Olvidados.",
         "enemies": "Guardianes Espirituales, el Emperador Inmortal.",
@@ -146,7 +146,7 @@
         "notables": "- Lord Dalmore (funcionario ejecutivo en Doskvol, autoritario, inteligente).\n-  Lady Slane (jefa de operaciones, perspicaz, sutil, efectiva).\n- Capitán Lannock (comandante mercenario, astuto, despiadado).",
         "allies": "Las Hoces, Ejército Imperial, Juntarraíles, Chispas.",
         "enemies": "Cazadores de leviatanes.",
-        "situation": " Los líderes del Ministerio creen que los cazadores de leviatanes son demasiado vitales para el bienestar público como para estar controlados por las casas nobles enfrentadas, dadas a sus mezquinas rivalidades y vendettas. Los agentes del ministerio tienen encomendadas una serie de acciones de espionaje, sabotaje y movimientos políticos para tomar el control de los Cazadores."   
+        "situation": "Los líderes del Ministerio creen que los cazadores de leviatanes son demasiado vitales para el bienestar público como para estar controlados por las casas nobles enfrentadas, dadas a sus mezquinas rivalidades y vendettas. Los agentes del ministerio tienen encomendadas una serie de acciones de espionaje, sabotaje y movimientos políticos para tomar el control de los Cazadores."   
       },
       "Rail Jacks":{
          "name":"Juntarraíles",
@@ -182,10 +182,10 @@
         "goal_1": "Descubrir a los infiltrados",
         "turf": "Crematorio Bellweather. Las posesiones del Maestre Guardián en Whitecrown.",
         "assets": "Las campanas de la muerte, que suenan cada vez que alguien muere en la ciudad, y los cuervos rastreadores de muerte que vuelan para encontrar el cuerpo (antiguos, arcanos). Muchas cohortes de Susurros expertos. El equipo más avanzado de espectrología y tecnología de chispa, incluyendo varios cascarones cazadores de espíritus.",
-        "quirks": ": La membresía de los Guardianes es secreta y completamente anónima. Sus miembros cortan todo vínculo y no tienen familias o relaciones cercanas, salvo sus compañeros guardianes.",
+        "quirks": "La membresía de los Guardianes es secreta y completamente anónima. Sus miembros cortan todo vínculo y no tienen familias o relaciones cercanas, salvo sus compañeros guardianes.",
         "notables": "Nadie sabe quién puede ser un guardián. Mantienen una membresía anónima de personas no nativas de Duskwall y usan nombres clave. Hay un guardián llamado «Bakoros» (puede tratarse de varias personas diferentes) que a veces da conferencias en el Colegio de Estudios Inmortales, en la Academia de Doskvol.",
         "allies": "La Iglesia del Éxtasis, Carroñeros de las Tierras de la Muerte.",
-        "enemies": " Las Hermanas Tenues, gondoleros, lord Scurlock, los Clavos Plateados, los Invisibles, el Camino de los Ecos, los Reconciliados.",
+        "enemies": "Las Hermanas Tenues, gondoleros, lord Scurlock, los Clavos Plateados, los Invisibles, el Camino de los Ecos, los Reconciliados.",
         "situation": "Los Guardianes Espirituales saben que uno de sus enemigos está intentando infiltrarse entre sus filas (todavía no saben que se trata de los Invisibles). Los Guardianes están tendiendo una trampa para descubrir la identidad de este enemigo y eliminarlo."   
       },
       "The Billhooks":{
@@ -197,7 +197,7 @@
         "assets": "Una gran pandilla de carniceros sedientos de sangre. Una manada de perros letales.",
         "quirks": "Las Hoces tienen reputación de sanguinarios y a menudo dejan tirados los cadáveres mutilados de sus víctimas como exhibición espeluznante. Muchos se preguntan por qué los casacas azules hacen la vista gorda con su salvajismo.",
         "notables": "- Tarvul (líder, cumple cadena perpetua, salvaje, arrogante, hombre de familia).\n- Erin (capitana, hermana de Tarvul, segura, mortal, ambiciosa).\n- Coran (matón, hijo de Tarvul, fiero, leal, tranquilo).",
-        "allies": " Los casacas azules, Ministerio de Preservación.",
+        "allies": "Los casacas azules, Ministerio de Preservación.",
         "enemies": "Ulf Ironborn, los Perdidos, ciudadanía de Pata de Cuervo y los Muelles.",
         "situation": "Tanto Erin como Coran quieren tomar el control de la pandilla de las Hoces, ya sea cuando Tarvul esté demasiado viejo (lo cual sucederá pronto) o tomándolo por la fuerza. Erin y Coran no sienten aprecio mutuo y no tendrán reparos en pelear contra un miembro de la familia por el liderazgo. Mientras tanto, el resto de la pandilla quiere continuar su reinado de terror y presionar a un magistrado para que indulte a Tarvul y otros miembros de la pandilla y liberarlos de Ironhook."   
       },
@@ -216,7 +216,7 @@
         "assets": "Un gran tesoro de diezmos de los ciudadanos. Extensas bibliotecas sobre ocultismo y lo arcano, espacios de trabajo y artefactos. Muchas cohortes de acólitos y masas que hacen cumplir la voluntad de los líderes de la Iglesia.",
         "quirks": "Algunos creyentes entregados se ofrecen como voluntarios para ser «purificados», convirtiéndose en masas. Esta práctica era algo común en la antigua secta de la Vasija Vacía, que precedió a la Iglesia.",
         "notables": "- Presbítero Rowan (líder, devoto, resuelto, visionario).\n- Preceptor Dunvil (investigador arcano, poco ortodoxo, obsesivo, enigmático).",
-        "allies": " Consejo Municipal, cazadores de leviatanes, Guardianes Espirituales.",
+        "allies": "Consejo Municipal, cazadores de leviatanes, Guardianes Espirituales.",
         "enemies": "El Camino de los Ecos, los Reconciliados.",
         "situation": "Los seres más puros, según las enseñanzas secretas de la Iglesia, son aquellos que están completamente libres de espíritus: los demonios. Estos seres son inmortales y nunca se desvanecen en la locura o el ansia, como los espíritus humanos errantes y los vampiros. Son perfectos. Los más devotos de la Iglesia buscan convertirse en ellos para así descubrir el secreto de la ascensión. En las mazmorras laberínticas que hay debajo de la catedral principal de la Iglesia, en Brightstone, se realizan muchos experimentos oscuros y rituales con cascarones, masas, vampiros y algún que otro demonio."   
       },
@@ -244,7 +244,7 @@
         "quirks": "El cuerpo de Roric se perdió cuando fue asesinado (cayó en un canal). Ahora su vengativo fantasma yerra por la ciudad.",
         "notables": "- Lyssa (lideresa, descarada, asesina, de familia noble).\n- Bell (lugarteniente, leal).",
         "allies": "Los casacas azules, marineros, los Perdidos, ciudadanos de Pata de Cuervo.",
-        "enemies": " La Colmena, Inspectores, estibadores.",
+        "enemies": "La Colmena, Inspectores, estibadores.",
         "situation": "Lyssa asesinó a Roric, el antiguo jefe de los Cuervos. Es una asesina temible y pocos quieren vérselas con ella, pero su posición de lideresa de los Cuervos es incierta, ya que algunos eran muy leales a Roric. Mientras continúe el juego de poder, el control de los Cuervos sobre el distrito podría tambalearse."   
       },
       "The Dimmer Sisters":{
@@ -384,7 +384,7 @@
         "type": "Bajos Fondos",
         "goal_1": "Destruir a los Renegridos",
         "goal_2": "Convertirse en caudillos de Pata de Cuervo",
-        "turf": " El cuartel general es su escuela/templo de lucha con espada. Dirigen un puñado de garitos de drogas de lujo en Pata de Cuervo y los Muelles.",
+        "turf": "El cuartel general es su escuela/templo de lucha con espada. Dirigen un puñado de garitos de drogas de lujo en Pata de Cuervo y los Muelles.",
         "assets": "Pequeños contingentes de maestros de combate con espada. Maestros alquimistas y muchas pociones y esencias potentes.",
         "quirks": "Varios miembros de los Fajines Rojos son hijos e hijas de la nobleza iruviana y de diplomáticos en Doskvol. Se entrenan en esgrima en la escuela y a veces participan en actividades pandilleras. Sus familias son poderosas e invertirán recursos significativos para castigar a cualquiera que haga daño a sus hijos.",
         "notables": ": Mylera Klev (lideresa, astuta, despiadada, educada, coleccionista de arte).",

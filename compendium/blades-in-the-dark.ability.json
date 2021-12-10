@@ -128,7 +128,7 @@
 		},
 		"(Le) Venomous": {
 			"name": "(San) Venenoso",
-      "description": " Te has vuelto inmune a una droga o un veneno (elige uno que lleves en la bandolera). Puedes esforzarte para secretarlo a través de tu piel o saliva o exhalarlo en forma de vapor.",
+      "description": "Te has vuelto inmune a una droga o un veneno (elige uno que lleves en la bandolera). Puedes esforzarte para secretarlo a través de tu piel o saliva o exhalarlo en forma de vapor.",
       "class": "Sanguijuela"  
 		},
 		"(Le) Veteran": {
@@ -203,7 +203,7 @@
 		},
 		"(Sl) Mesmerism": {
 			"name": "(Ma) Mesmerismo",
-      "description": " Después de Influir en alguien puedes hacer que olvide lo que ha sucedido, pero volverá a recordarlo todo cuando vuelva a interactuar contigo.",
+      "description": "Después de Influir en alguien puedes hacer que olvide lo que ha sucedido, pero volverá a recordarlo todo cuando vuelva a interactuar contigo.",
       "class": "Máscara"  
 		},
 		"(Sl) Rook's Gambit": {
@@ -213,7 +213,7 @@
 		},
 		"(Sl) Subterfuge": {
 			"name": "(Ma) subterfugio",
-      "description": " Puedes gastar tu protección especial para resistir una consecuencia provocada por sospechas o persuasión, o para esforzarte para hacer algún subterfugio.",
+      "description": "Puedes gastar tu protección especial para resistir una consecuencia provocada por sospechas o persuasión, o para esforzarte para hacer algún subterfugio.",
       "class": "Máscara"  
 		},
 		"(Sl) Trust in Me": {
@@ -283,12 +283,12 @@
 		},
 		"(W) Iron Will": {
 			"name": "(Su) Voluntad de hierro",
-      "description": " Eres inmune al terror que produce la visión de algunas entidades sobrenaturales. Añade +1d cuando hagas una tirada de resistencia con Voluntad.",
+      "description": "Eres inmune al terror que produce la visión de algunas entidades sobrenaturales. Añade +1d cuando hagas una tirada de resistencia con Voluntad.",
       "class": "Susurro"  
 		},
 		"(W) Occultist": {
 			"name": "(Su) Ocultista",
-      "description": ": Conoces los métodos secretos de Socializar con poderes antiguos, dioses olvidados o demonios. Cuando hayas contactado con una entidad, añade +1d para Mandar a sus adoradores.",
+      "description": "Conoces los métodos secretos de Socializar con poderes antiguos, dioses olvidados o demonios. Cuando hayas contactado con una entidad, añade +1d para Mandar a sus adoradores.",
       "class": "Susurro"  
 		},
 		"(W) Ritual": {
@@ -313,8 +313,108 @@
 		},
 		"(W) Warded": {
 			"name": "(Su) Protegido",
-      "description": ": Puedes gastar tu protección especial para resistir una consecuencia sobrenatural o para esforzarte cuando te enfrentes a fuerzas arcanas o las emplees.",
+      "description": "Puedes gastar tu protección especial para resistir una consecuencia sobrenatural o para esforzarte cuando te enfrentes a fuerzas arcanas o las emplees.",
       "class": "Susurro"  
+		},
+		"(G) Ghost Form": {
+			"name": "(F)* Forma fantasmal",
+      "description": "Eres una concentración de vapor electroplasmático que se asemeja a un cuerpo vivo con su ropa. Puedes interactuar débilmente con el mundo físico y viceversa. Eres vulnerable a los poderes arcanos y efectos electroplasmáticos. Te mueves flotando y puedes volar rápidamente sin cansarte. Puedes fluir poco a poco a través de pequeñas aberturas como si fueses vapor. Enfrías el área a tu alrededor y eres una visión aterradora para los vivos. Te afectan los amuletos espantaespíritus (tirada de resistencia para superar la repulsión). Cada vez que debas sufrir estrés, sufres drenaje. Cada vez que debas sufrir trauma, sufres desolación.",
+      "class": "Fantasma"  
+		},
+		"(G) Dissipate": {
+			"name": "(F) Dispersión",
+      "description": "Puedes dispersar por un instante el vapor electroplasmático de tu forma fantasmal para pasar a través de objetos sólidos. Sufre 1 punto de drenaje cuando te disperses, más 1 punto de drenaje por cada una de las opciones siguientes: aumentar la duración (un minuto, una hora, un día); también te vuelves invisible; todo lo que atraviese tu forma se electrifica o congela peligrosamente.",
+      "class": "Fantasma"  
+		},
+		"(G) Manifest": {
+			"name": "(F) Manifestación",
+      "description": "Sufre 1 punto de drenaje para poder fluir a través de las vías electroplasmáticas del campo fantasmal y viajar instantáneamente a cualquier lugar que conocieras íntimamente en vida o para responder a la convocación de una imposición.",
+      "class": "Fantasma"  
+		},
+		"(G) Poltergeist": {
+			"name": "(F) Poltergeist",
+      "description": "Sufre 1 punto de drenaje para poder interactuar durante un instante con el mundo físico, como si tuvieras un cuerpo normal. Puedes sufrir más drenaje (2-6) extendiendo el alcance y la magnitud de tu interacción para incluir fuerza telequinética y descargas electroplasmáticas.",
+      "class": "Fantasma"  
+		},
+		"(G) Possess": {
+			"name": "(F) Posesión",
+      "description": "Te puedes Armonizar al campo fantasmal para tomar el control de un cuerpo vivo. Debes volver a armonizar (arriesgándote a sufrir daño electroplasmático) o abandonar el cuerpo si se produce una resistencia a tu control, lo cual ocurre cuando: consumas energía espiritual del anfitrión; haya poderes arcanos actuando en tu contra; la desesperación conduzca la voluntad del anfitrión. Puedes poseer de forma fácil e indefinida a un cascarón o a una masa que haya sido preparada ritualmente para ti (cambia al libreto del Cascarón o del Vampiro, respectivamente).",
+      "class": "Fantasma"  
+		},
+		"(G) Veteran": {
+			"name": "(F) Veterano",
+      "description": "Elige una capacidad especial de otro libreto.",
+	  "class": "Fantasma"
+		},
+		"(Hu) Automaton": {
+			"name": "(Ca)* Autómata",
+      "description": "Eres un espíritu que anima un cuerpo con tecnología de chispa. Por defecto, tienes fuerza y sentidos parecidos a los humanos. Tu carcasa tiene protección estándar (que no se contabiliza como carga). Tus antiguos sentimientos humanos, intereses y conexiones son solo recuerdos tenues. Ahora existes para cumplir tus funciones. Elige tres (a la izquierda). Puedes ser reconstruido si te dañan gravemente o te destruyen. Si el recipiente de tu alma se rompe, quedas liberado de la servidumbre y te conviertes en un Fantasma.",
+	  "class": "Cascarón"
+		},
+		"(Hu) Overcharge": {
+			"name": "(Ca) Sobrecarga",
+      "description": "Puedes sufrir 1 punto de drenaje para realizar una hazaña de extrema fuerza o velocidad (correr más rápido que un caballo, doblar metales con las manos desnudas, etcétera). Esta sobrecarga debe tenerse en cuenta en el efecto.",
+	  "class": "Cascarón"
+		},
+		"(Hu) Compartments": {
+			"name": "(Ca) Compartimentos",
+      "description": "Tus objetos están integrados en tu armazón y pueden esconderse bajo paneles ocultos. Tu armazón puede llevar +2 de carga.",
+	  "class": "Cascarón"
+		},
+		"(Hu) Electroplasmic Projectors": {
+			"name": "(Ca) Proyectores electroplasmáticos",
+      "description": "Puedes emitir parte de tu energía plasmática en forma de descarga eléctrica a tu alrededor o como un haz dirigido. También puedes usar esta habilidad para crear una barrera de rayos para repeler o atrapar un espíritu. Sufres 1 punto de drenaje por cada nivel de magnitud.",
+	  "class": "Cascarón"
+		},
+		"(Hu) Interface": {
+			"name": "(Ca) Interfaz",
+      "description": "Puedes Armonizar con el campo de energía electroplasmática local para controlarlo o controlar algo conectado a él (incluido otro cascarón).",
+	  "class": "Cascarón"
+		},
+		"(Hu) Secondary Hull": {
+			"name": "(Ca) Carcasa secundaria",
+      "description": "Elige un segundo armazón adicional y su característica inicial. Puedes transferir tu conciencia entre los dos a voluntad.",
+	  "class": "Cascarón"
+		},
+		"(Hu) Frame Upgrade": {
+			"name": "(Ca) ",
+      "description": "Elige una característica adicional de armazón.",
+	  "class": "Cascarón"
+		},
+		"(V) Undead": {
+			"name": "(V) No muerto",
+      "description": "Eres un espíritu que anima un cuerpo no muerto. Tu trauma está al máximo. Elige cuatro trastornos traumáticos que reflejen tu naturaleza vampírica. Los ataques arcanos son eficaces contra ti. No morirás si sufres un daño o trauma mortal, pero tu espíritu de no muerto se verá superado. Recibe el daño de nivel 3 «Incapacitado» hasta que te alimentes lo suficiente como para recuperarte. Si sufres daño arcano mientras estés en este estado serás destruido por completo. Tienes más casillas de PX (mejoras más lentamente) y más casillas de estrés",
+	  "class": "Vampiro"
+		},
+		"(V) Terrible Power": {
+			"name": "(V) Poder terrible",
+      "description": "Puedes sufrir 1 punto de estrés para realizar una hazaña de fuerza o velocidad sobrehumana (correr más rápido que un carruaje, romper piedras con las manos desnudas, saltar al techo de un edificio, etcétera). Este esfuerzo extra debe tenerse en cuenta para el efecto.",
+	  "class": "Vampiro"
+		},
+		"(V) Arcane Sight": {
+			"name": "(V) Vista arcana",
+      "description": "Puedes sufrir 1 punto de estrés para percibir más allá de los límites humanos. «Escuchas» los pensamientos o sentimientos verdaderos de un sujeto, ves en la oscuridad, sientes la presencia de cosas invisibles, intuyes la ubicación de un objeto oculto, etcétera.",
+	  "class": "Vampiro"
+		},
+		"(V) A Void in the Echo": {
+			"name": "(V) Un vacío en el eco",
+      "description": "Los espíritus no pueden verte ni hacerte daño. Puedes sufrir 2 puntos de estrés para evitar ser visto por los seres vivos y que no te vean durante unos instantes.",
+	  "class": "Vampiro"
+		},
+		"(V) Dark Talent": {
+			"name": "(V) Talento oscuro",
+      "description": "Elige entre Destreza, Perspicacia o Voluntad; el valor máximo para las acciones bajo ese atributo es 5. Añade también +1d a las tiradas de resistencia con el atributo elegido.",
+	  "class": "Vampiro"
+		},
+		"(V) Sinister Guile": {
+			"name": "(V) Astucia siniestra",
+      "description": "Elige una de estas opciones durante la fase de descanso: Conseguir una tarea adicional o añadir +1d a todas las tareas de la fase de descanso.",
+	  "class": "Vampiro"
+		},
+		"(V) Veteran": {
+			"name": "(V) Veterano",
+      "description": "Elige una capacidad especial de otro libreto.",
+	  "class": "Vampiro"
 		}
 	}
 }

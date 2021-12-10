@@ -68,7 +68,7 @@
 		},
 		"(Le) Fine tinkering tools": {
 			"name": "(San) Herramientas de calidad",
-      "description": " Un conjunto de herramientas de buena factura para el trabajo mecánico más delicado. Una lupa de joyero. Aparatos de medición.",
+      "description": "Un conjunto de herramientas de buena factura para el trabajo mecánico más delicado. Una lupa de joyero. Aparatos de medición.",
       "class":"Sanguijuela" 
 		},
 		"(Le) Fine wrecking tools": {
@@ -108,7 +108,7 @@
 		},
 		"(Sl) A cane-sword": {
 			"name": "(Ma) Bastón espada",
-      "description": " Una fina espada oculta en su vaina con forma de bastón de noble. Una inspección superficial lo pasará por alto.",
+      "description": "Una fina espada oculta en su vaina con forma de bastón de noble. Una inspección superficial lo pasará por alto.",
       "class":"Máscara" 
 		},
 		"(Sl) Fine clothes & jewelry": {
@@ -118,7 +118,7 @@
 		},
 		"(Sl) Fine disguise kit": {
 			"name": "(Ma) Vestuario de calidad",
-      "description": " Un kit de maquillaje teatral equipado con una impresionante variedad de recursos para engañar a la vista. La calidad superior de este kit puede aumentar el efecto cuando lo uses en tus acciones de engañar",
+      "description": "Un kit de maquillaje teatral equipado con una impresionante variedad de recursos para engañar a la vista. La calidad superior de este kit puede aumentar el efecto cuando lo uses en tus acciones de engañar",
       "class":"Máscara" 
 		},
 		"(Sl) Fine loaded dice, trick cards": {
@@ -153,7 +153,7 @@
 		},
 		"(Sp) Vial of slumber essence": {
 			"name": "(Ar) Frasco de esencia de sueño",
-      "description": " Una dosis de esencia de sueño es suficiente para dormir a alguien durante una hora. El sueño de la víctima no es sobrenatural, pero sí profundo; se la puede despertar con un poco de esfuerzo. ",
+      "description": "Una dosis de esencia de sueño es suficiente para dormir a alguien durante una hora. El sueño de la víctima no es sobrenatural, pero sí profundo; se la puede despertar con un poco de esfuerzo. ",
       "class":"Araña" 
 		},
 		"(W) Demonbane charm": {
@@ -168,7 +168,7 @@
 		},
 		"(W) Fine spirit mask": {
 			"name": "(Su) Máscara espiritual de calidad",
-      "description": " Un objeto arcano que permite a un usuario entrenado ver energías sobrenaturales en gran detalle. También ofrece alguna medida de protección contra posesiones fantasmales. Cada máscara espiritual es única. ¿Cómo es la tuya? ¿Qué la hace extraña e inquietante?",
+      "description": "Un objeto arcano que permite a un usuario entrenado ver energías sobrenaturales en gran detalle. También ofrece alguna medida de protección contra posesiones fantasmales. Cada máscara espiritual es única. ¿Cómo es la tuya? ¿Qué la hace extraña e inquietante?",
       "class":"Susurro"       
 		},
 		"(W) Ghost key": {
@@ -179,6 +179,11 @@
 		"(W) Spirit bottles (2)": {
 			"name": "(Su) Botellas espirituales (2)",
       "description": "Un artilugio arcano que se utiliza para atrapar espíritus. Consiste en un cilindro metálico cristalino del tamaño de una hogaza de pan.",
+      "class":"Susurro"       
+		},
+		"(W) Electroplasm vials": {
+			"name": "(Su) Frascos de electroplasma",
+      "description": "",
       "class":"Susurro"       
 		},
 		"+ Heavy": {
