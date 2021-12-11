@@ -136,7 +136,7 @@
         "situation": "Lord Scurlock está atado por magia antigua a la demonio Setarra, pero ¿quién manda y quién sirve? Sus roles han cambiado muchas veces a lo largo de los siglos, pero ahora lord Scurlock debe cumplir una deuda. Setarra ha encontrado en el puerto un nido de demonios del mar, encerrados bajo la roca y encadenados por la magia del cataclismo. Quiere liberarlos para ver su ira desatada en el mundo de los humanos. Scurlock la ayudará o sufrirá un destino oscuro."   
       },
       "Ministry of Preservation":{
-         "name":"Ministerio da Preservación",
+         "name":"Ministerio de Preservación",
          "description":"Supervisa todo el transporte entre ciudades y el suministro de alimentos y otros recursos vitales.",
         "type": "Instituciones",
         "goal_1": "Tomar el control de los cazadores de leviatanes",

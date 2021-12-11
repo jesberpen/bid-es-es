@@ -1,0 +1,20 @@
+{
+	"label": "Entanglements",
+	"entries": [
+		{
+			"id": "Entanglements - Heat 0-3",
+			"name": "Enredos - Atención 0-3",
+			"description": "Si hay dos resultados, el DJ elgie que enredo ocurre."
+		},
+		{
+			"id": "Entanglements - Heat 4/5",
+			"name": "Enredos - Atención 4/5",
+			"description": "Si hay dos resultados, el DJ elgie que enredo ocurre."
+		},
+		{
+			"id": "Entanglements - Heat 6+",
+			"name": "Enredos - Atención 6+",
+			"description": "Si hay dos resultados, el DJ elgie que enredo ocurre."
+		}
+	]
+}

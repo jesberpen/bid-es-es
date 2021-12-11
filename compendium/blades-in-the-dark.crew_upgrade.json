@@ -207,27 +207,27 @@
       "description":"La banda tiene acceso a entrenamiento de nivel maestro. Ahora las acciones de los PJ pueden mejorar hasta nivel 4 (antes de adquirir esta mejora, el nivel máximo de una acción es 3). Esta mejora cuesta cuatro casillas."
 		},
 		"Quality: Arcane Implements": {
-			"name": "Qualidade: Utensilios arcanos",
+			"name": "Calidad: Utensilios arcanos",
       "description":"Cada mejora aumenta el nivel de calidad de todos los objetos de los PJ de ese tipo, aumentando la establecida por el Nivel de la banda y los objetos de calidad. Es posible mejorar la calidad de documentos, equipo (de robo y escalada), utensilios arcanos, suministros de subterfugio, herramientas (de demolición y ajuste) y armas. Por ejemplo, si sois de Nivel 0 y tienes unas ganzúas de calidad (+1) y la mejora de Calidad para el equipo (+1), podrías enfrentarte a una cerradura de Nivel II de calidad en igualdad de condiciones."
 		},
 		"Quality: Documents": {
-			"name": "Qualidade: Documentos",
+			"name": "Calidad: Documentos",
       "description":"Cada mejora aumenta el nivel de calidad de todos los objetos de los PJ de ese tipo, aumentando la establecida por el Nivel de la banda y los objetos de calidad. Es posible mejorar la calidad de documentos, equipo (de robo y escalada), utensilios arcanos, suministros de subterfugio, herramientas (de demolición y ajuste) y armas. Por ejemplo, si sois de Nivel 0 y tienes unas ganzúas de calidad (+1) y la mejora de Calidad para el equipo (+1), podrías enfrentarte a una cerradura de Nivel II de calidad en igualdad de condiciones."
 		},
 		"Quality: Gear": {
-			"name": "Qualidade: Equipo",
+			"name": "Calidad: Equipo",
       "description":"Cada mejora aumenta el nivel de calidad de todos los objetos de los PJ de ese tipo, aumentando la establecida por el Nivel de la banda y los objetos de calidad. Es posible mejorar la calidad de documentos, equipo (de robo y escalada), utensilios arcanos, suministros de subterfugio, herramientas (de demolición y ajuste) y armas. Por ejemplo, si sois de Nivel 0 y tienes unas ganzúas de calidad (+1) y la mejora de Calidad para el equipo (+1), podrías enfrentarte a una cerradura de Nivel II de calidad en igualdad de condiciones."
 		},
 		"Quality: Subterfuge Supplies": {
-			"name": "Qualidade: Suministros de subterfugio",
+			"name": "Calidad: Suministros de subterfugio",
       "description":"Cada mejora aumenta el nivel de calidad de todos los objetos de los PJ de ese tipo, aumentando la establecida por el Nivel de la banda y los objetos de calidad. Es posible mejorar la calidad de documentos, equipo (de robo y escalada), utensilios arcanos, suministros de subterfugio, herramientas (de demolición y ajuste) y armas. Por ejemplo, si sois de Nivel 0 y tienes unas ganzúas de calidad (+1) y la mejora de Calidad para el equipo (+1), podrías enfrentarte a una cerradura de Nivel II de calidad en igualdad de condiciones."
 		},
 		"Quality: Tools": {
-			"name": "Qualidade: Herramientas",
+			"name": "Calidad: Herramientas",
       "description":"Cada mejora aumenta el nivel de calidad de todos los objetos de los PJ de ese tipo, aumentando la establecida por el Nivel de la banda y los objetos de calidad. Es posible mejorar la calidad de documentos, equipo (de robo y escalada), utensilios arcanos, suministros de subterfugio, herramientas (de demolición y ajuste) y armas. Por ejemplo, si sois de Nivel 0 y tienes unas ganzúas de calidad (+1) y la mejora de Calidad para el equipo (+1), podrías enfrentarte a una cerradura de Nivel II de calidad en igualdad de condiciones."
 		},
 		"Quality: Weapons": {
-			"name": "Qualidade: Armas",
+			"name": "Calidad: Armas",
       "description":"Cada mejora aumenta el nivel de calidad de todos los objetos de los PJ de ese tipo, aumentando la establecida por el Nivel de la banda y los objetos de calidad. Es posible mejorar la calidad de documentos, equipo (de robo y escalada), utensilios arcanos, suministros de subterfugio, herramientas (de demolición y ajuste) y armas. Por ejemplo, si sois de Nivel 0 y tienes unas ganzúas de calidad (+1) y la mejora de Calidad para el equipo (+1), podrías enfrentarte a una cerradura de Nivel II de calidad en igualdad de condiciones."
 		},
 		"Quarters": {

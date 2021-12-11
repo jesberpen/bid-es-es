@@ -382,7 +382,7 @@
 	  "class": "Cascarón"
 		},
 		"(V) Undead": {
-			"name": "(V) No muerto",
+			"name": "(V)* No muerto",
       "description": "Eres un espíritu que anima un cuerpo no muerto. Tu trauma está al máximo. Elige cuatro trastornos traumáticos que reflejen tu naturaleza vampírica. Los ataques arcanos son eficaces contra ti. No morirás si sufres un daño o trauma mortal, pero tu espíritu de no muerto se verá superado. Recibe el daño de nivel 3 «Incapacitado» hasta que te alimentes lo suficiente como para recuperarte. Si sufres daño arcano mientras estés en este estado serás destruido por completo. Tienes más casillas de PX (mejoras más lentamente) y más casillas de estrés",
 	  "class": "Vampiro"
 		},

@@ -2,7 +2,7 @@
   "ACTOR.TypeCharacter": "Personaje",
   "ACTOR.TypeNpc": "PNJ",
   "ACTOR.TypeCrew": "Banda",
-  "ACTOR.TypeFactions": "Facciones",
+  "ACTOR.TypeFactions": "Territorio/Facciones",
   "ACTOR.Type🕛 Clock": "🕛 Reloj",
   "ITEM.TypeItem": "Objeto",
   "ITEM.TypeClass": "Libreto",

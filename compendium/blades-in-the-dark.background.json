@@ -26,7 +26,7 @@
       "description":"Un diletante, cortesano, descendiente de una casa en decadencia, etc."
 		},
 		"Trade": {
-			"name": "comercial",
+			"name": "Comercial",
       "description":"Un tendero, mercader, experto artesano, agente de envíos, etc. Un enlace con el Ministerio de Preservación."
 		},
 		"Underworld": {
