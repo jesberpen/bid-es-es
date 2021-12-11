@@ -28,7 +28,16 @@
       }
    ],
 
-  "packs": [],
+  "packs": [
+   {
+      "name": "macros-es",
+      "label": "Macros ES",
+      "path": "packs/macros-es.db",
+      "entity": "Macro",
+      "module": "bid-es-es",
+      "private": false
+    }
+  ],
 
   "systems": [
     "blades-in-the-dark"
