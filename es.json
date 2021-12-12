@@ -167,7 +167,7 @@
   "BITD.RollCriticalSuccess": "¡Éxito crítico!",
   "BITD.RollSuccess": "Éxito",
   "BITD.RollPartialSuccess": "Éxito Parcial",
-  "BITD.RollSomeDice": "¡Tira unos dados!",
+  "BITD.RollSomeDice": "¡Tirada de fortuna!",
   "BITD.RollTokenDescription": "Si quieres usar los números de un personaje, selecciona su icono primero",
   "BITD.RollNumberOfDice": "Número de Dados",
   "BITD.RollDoWithIncreasedEffect": "Lo logras con un <strong>efecto aumentado</strong>.",
