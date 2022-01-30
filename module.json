@@ -5,7 +5,7 @@
   "version":"0.1.2",
   "author":"Gato Malefico",
   "minimumCoreVersion":"0.8.8",
-  "compatibleCoreVersion":"0.8.9",
+  "compatibleCoreVersion":"9",
   "esmodules": ["babele-register.js"],
   "url":"https://github.com/jesberpen/bid-es-es",
   "manifest": "https://raw.githubusercontent.com/jesberpen/bid-es-es/main/module.json",
